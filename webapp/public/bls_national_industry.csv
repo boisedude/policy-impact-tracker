@@ -1,0 +1,973 @@
+date,value,indicator_name,unit,geography,geo_level,source
+2017-01-01,12437.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-02-01,12449.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-03-01,12474.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-04-01,12503.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-05-01,12507.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-06-01,12513.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-07-01,12541.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-08-01,12575.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-09-01,12594.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-10-01,12596.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-11-01,12634.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-12-01,12639.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-01-01,12648.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-02-01,12665.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-03-01,12697.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-04-01,12721.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-05-01,12739.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-06-01,12757.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-07-01,12771.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-08-01,12791.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-09-01,12771.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-10-01,12780.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-11-01,12796.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-12-01,12794.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-01-01,12812.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-02-01,12822.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-03-01,12857.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-04-01,12890.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-05-01,12897.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-06-01,12908.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-07-01,12920.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-08-01,12927.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-09-01,12943.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-10-01,12946.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-11-01,12944.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-12-01,12965.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-01-01,12986.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-02-01,12989.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-03-01,13013.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-04-01,11582.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-05-01,11777.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-06-01,12027.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-07-01,12317.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-08-01,12561.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-09-01,12841.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-10-01,13065.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-11-01,13313.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-12-01,13566.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-01-01,13569.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-02-01,13581.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-03-01,13573.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-04-01,13580.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-05-01,13590.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-06-01,13600.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-07-01,13610.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-08-01,13623.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-09-01,13643.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-10-01,13669.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-11-01,13673.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-12-01,13671.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-01-01,13670.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-02-01,13677.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-03-01,13686.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-04-01,13689.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-05-01,13685.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-06-01,13693.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-07-01,13709.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-08-01,13731.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-09-01,13750.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-10-01,13772.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-11-01,13787.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-12-01,13814.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-01-01,13816.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-02-01,13838.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-03-01,13827.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-04-01,13836.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-05-01,13854.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-06-01,13870.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-07-01,13922.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-08-01,13940.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-09-01,13954.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-10-01,13981.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-11-01,13984.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-12-01,14011.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-01-01,14013.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-02-01,14040.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-03-01,14046.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-04-01,14059.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-05-01,14064.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-06-01,14102.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-07-01,14112.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-08-01,14152.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-09-01,14192.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-10-01,14227.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-11-01,14261.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-12-01,14295.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-01-01,14281.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-02-01,14292.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-03-01,14318.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-04-01,14332.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-05-01,14326.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-06-01,14340.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-07-01,14378.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-08-01,14411.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-09-01,14439.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-10-01,14481.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-11-01,14505.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-12-01,14509.0,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-01-01,7201.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-02-01,7219.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-03-01,7224.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-04-01,7230.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-05-01,7235.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-06-01,7256.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-07-01,7275.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-08-01,7298.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-09-01,7304.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-10-01,7314.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-11-01,7310.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-12-01,7328.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-01-01,7327.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-02-01,7336.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-03-01,7335.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-04-01,7338.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-05-01,7339.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-06-01,7342.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-07-01,7346.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-08-01,7349.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-09-01,7362.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-10-01,7362.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-11-01,7371.0,Construction Employment,Thousands,United States,National,BLS CES
+2018-12-01,7387.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-01-01,7391.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-02-01,7393.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-03-01,7398.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-04-01,7414.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-05-01,7423.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-06-01,7427.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-07-01,7438.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-08-01,7437.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-09-01,7450.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-10-01,7460.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-11-01,7465.0,Construction Employment,Thousands,United States,National,BLS CES
+2019-12-01,7466.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-01-01,7467.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-02-01,7479.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-03-01,7495.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-04-01,6521.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-05-01,6631.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-06-01,6778.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-07-01,6843.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-08-01,6960.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-09-01,7098.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-10-01,7208.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-11-01,7318.0,Construction Employment,Thousands,United States,National,BLS CES
+2020-12-01,7440.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-01-01,7450.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-02-01,7456.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-03-01,7447.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-04-01,7438.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-05-01,7441.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-06-01,7452.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-07-01,7439.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-08-01,7443.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-09-01,7446.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-10-01,7464.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-11-01,7469.0,Construction Employment,Thousands,United States,National,BLS CES
+2021-12-01,7479.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-01-01,7488.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-02-01,7479.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-03-01,7492.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-04-01,7501.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-05-01,7513.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-06-01,7550.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-07-01,7542.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-08-01,7562.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-09-01,7575.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-10-01,7592.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-11-01,7607.0,Construction Employment,Thousands,United States,National,BLS CES
+2022-12-01,7619.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-01-01,7623.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-02-01,7633.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-03-01,7629.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-04-01,7642.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-05-01,7647.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-06-01,7646.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-07-01,7650.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-08-01,7667.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-09-01,7678.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-10-01,7696.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-11-01,7706.0,Construction Employment,Thousands,United States,National,BLS CES
+2023-12-01,7727.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-01-01,7740.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-02-01,7762.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-03-01,7769.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-04-01,7782.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-05-01,7790.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-06-01,7808.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-07-01,7810.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-08-01,7824.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-09-01,7838.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-10-01,7853.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-11-01,7870.0,Construction Employment,Thousands,United States,National,BLS CES
+2024-12-01,7888.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-01-01,7895.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-02-01,7904.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-03-01,7924.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-04-01,7940.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-05-01,7955.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-06-01,7959.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-07-01,7960.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-08-01,7976.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-09-01,7999.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-10-01,8027.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-11-01,8038.0,Construction Employment,Thousands,United States,National,BLS CES
+2025-12-01,8052.0,Construction Employment,Thousands,United States,National,BLS CES
+2017-01-01,2898.0,Information Employment,Thousands,United States,National,BLS CES
+2017-02-01,2900.0,Information Employment,Thousands,United States,National,BLS CES
+2017-03-01,2906.0,Information Employment,Thousands,United States,National,BLS CES
+2017-04-01,2907.0,Information Employment,Thousands,United States,National,BLS CES
+2017-05-01,2912.0,Information Employment,Thousands,United States,National,BLS CES
+2017-06-01,2914.0,Information Employment,Thousands,United States,National,BLS CES
+2017-07-01,2918.0,Information Employment,Thousands,United States,National,BLS CES
+2017-08-01,2918.0,Information Employment,Thousands,United States,National,BLS CES
+2017-09-01,2921.0,Information Employment,Thousands,United States,National,BLS CES
+2017-10-01,2915.0,Information Employment,Thousands,United States,National,BLS CES
+2017-11-01,2918.0,Information Employment,Thousands,United States,National,BLS CES
+2017-12-01,2916.0,Information Employment,Thousands,United States,National,BLS CES
+2018-01-01,2922.0,Information Employment,Thousands,United States,National,BLS CES
+2018-02-01,2927.0,Information Employment,Thousands,United States,National,BLS CES
+2018-03-01,2932.0,Information Employment,Thousands,United States,National,BLS CES
+2018-04-01,2939.0,Information Employment,Thousands,United States,National,BLS CES
+2018-05-01,2939.0,Information Employment,Thousands,United States,National,BLS CES
+2018-06-01,2947.0,Information Employment,Thousands,United States,National,BLS CES
+2018-07-01,2953.0,Information Employment,Thousands,United States,National,BLS CES
+2018-08-01,2955.0,Information Employment,Thousands,United States,National,BLS CES
+2018-09-01,2961.0,Information Employment,Thousands,United States,National,BLS CES
+2018-10-01,2961.0,Information Employment,Thousands,United States,National,BLS CES
+2018-11-01,2962.0,Information Employment,Thousands,United States,National,BLS CES
+2018-12-01,2963.0,Information Employment,Thousands,United States,National,BLS CES
+2019-01-01,2964.0,Information Employment,Thousands,United States,National,BLS CES
+2019-02-01,2964.0,Information Employment,Thousands,United States,National,BLS CES
+2019-03-01,2971.0,Information Employment,Thousands,United States,National,BLS CES
+2019-04-01,2973.0,Information Employment,Thousands,United States,National,BLS CES
+2019-05-01,2977.0,Information Employment,Thousands,United States,National,BLS CES
+2019-06-01,2978.0,Information Employment,Thousands,United States,National,BLS CES
+2019-07-01,2976.0,Information Employment,Thousands,United States,National,BLS CES
+2019-08-01,2979.0,Information Employment,Thousands,United States,National,BLS CES
+2019-09-01,2977.0,Information Employment,Thousands,United States,National,BLS CES
+2019-10-01,2980.0,Information Employment,Thousands,United States,National,BLS CES
+2019-11-01,2978.0,Information Employment,Thousands,United States,National,BLS CES
+2019-12-01,2987.0,Information Employment,Thousands,United States,National,BLS CES
+2020-01-01,2993.0,Information Employment,Thousands,United States,National,BLS CES
+2020-02-01,2996.0,Information Employment,Thousands,United States,National,BLS CES
+2020-03-01,3003.0,Information Employment,Thousands,United States,National,BLS CES
+2020-04-01,2793.0,Information Employment,Thousands,United States,National,BLS CES
+2020-05-01,2837.0,Information Employment,Thousands,United States,National,BLS CES
+2020-06-01,2901.0,Information Employment,Thousands,United States,National,BLS CES
+2020-07-01,2962.0,Information Employment,Thousands,United States,National,BLS CES
+2020-08-01,3026.0,Information Employment,Thousands,United States,National,BLS CES
+2020-09-01,3105.0,Information Employment,Thousands,United States,National,BLS CES
+2020-10-01,3179.0,Information Employment,Thousands,United States,National,BLS CES
+2020-11-01,3247.0,Information Employment,Thousands,United States,National,BLS CES
+2020-12-01,3285.0,Information Employment,Thousands,United States,National,BLS CES
+2021-01-01,3285.0,Information Employment,Thousands,United States,National,BLS CES
+2021-02-01,3288.0,Information Employment,Thousands,United States,National,BLS CES
+2021-03-01,3292.0,Information Employment,Thousands,United States,National,BLS CES
+2021-04-01,3291.0,Information Employment,Thousands,United States,National,BLS CES
+2021-05-01,3302.0,Information Employment,Thousands,United States,National,BLS CES
+2021-06-01,3311.0,Information Employment,Thousands,United States,National,BLS CES
+2021-07-01,3316.0,Information Employment,Thousands,United States,National,BLS CES
+2021-08-01,3320.0,Information Employment,Thousands,United States,National,BLS CES
+2021-09-01,3322.0,Information Employment,Thousands,United States,National,BLS CES
+2021-10-01,3322.0,Information Employment,Thousands,United States,National,BLS CES
+2021-11-01,3326.0,Information Employment,Thousands,United States,National,BLS CES
+2021-12-01,3330.0,Information Employment,Thousands,United States,National,BLS CES
+2022-01-01,3329.0,Information Employment,Thousands,United States,National,BLS CES
+2022-02-01,3334.0,Information Employment,Thousands,United States,National,BLS CES
+2022-03-01,3337.0,Information Employment,Thousands,United States,National,BLS CES
+2022-04-01,3334.0,Information Employment,Thousands,United States,National,BLS CES
+2022-05-01,3334.0,Information Employment,Thousands,United States,National,BLS CES
+2022-06-01,3336.0,Information Employment,Thousands,United States,National,BLS CES
+2022-07-01,3346.0,Information Employment,Thousands,United States,National,BLS CES
+2022-08-01,3351.0,Information Employment,Thousands,United States,National,BLS CES
+2022-09-01,3350.0,Information Employment,Thousands,United States,National,BLS CES
+2022-10-01,3355.0,Information Employment,Thousands,United States,National,BLS CES
+2022-11-01,3353.0,Information Employment,Thousands,United States,National,BLS CES
+2022-12-01,3360.0,Information Employment,Thousands,United States,National,BLS CES
+2023-01-01,3362.0,Information Employment,Thousands,United States,National,BLS CES
+2023-02-01,3365.0,Information Employment,Thousands,United States,National,BLS CES
+2023-03-01,3372.0,Information Employment,Thousands,United States,National,BLS CES
+2023-04-01,3371.0,Information Employment,Thousands,United States,National,BLS CES
+2023-05-01,3370.0,Information Employment,Thousands,United States,National,BLS CES
+2023-06-01,3372.0,Information Employment,Thousands,United States,National,BLS CES
+2023-07-01,3378.0,Information Employment,Thousands,United States,National,BLS CES
+2023-08-01,3377.0,Information Employment,Thousands,United States,National,BLS CES
+2023-09-01,3370.0,Information Employment,Thousands,United States,National,BLS CES
+2023-10-01,3372.0,Information Employment,Thousands,United States,National,BLS CES
+2023-11-01,3378.0,Information Employment,Thousands,United States,National,BLS CES
+2023-12-01,3385.0,Information Employment,Thousands,United States,National,BLS CES
+2024-01-01,3387.0,Information Employment,Thousands,United States,National,BLS CES
+2024-02-01,3389.0,Information Employment,Thousands,United States,National,BLS CES
+2024-03-01,3396.0,Information Employment,Thousands,United States,National,BLS CES
+2024-04-01,3393.0,Information Employment,Thousands,United States,National,BLS CES
+2024-05-01,3395.0,Information Employment,Thousands,United States,National,BLS CES
+2024-06-01,3399.0,Information Employment,Thousands,United States,National,BLS CES
+2024-07-01,3404.0,Information Employment,Thousands,United States,National,BLS CES
+2024-08-01,3406.0,Information Employment,Thousands,United States,National,BLS CES
+2024-09-01,3409.0,Information Employment,Thousands,United States,National,BLS CES
+2024-10-01,3404.0,Information Employment,Thousands,United States,National,BLS CES
+2024-11-01,3405.0,Information Employment,Thousands,United States,National,BLS CES
+2024-12-01,3410.0,Information Employment,Thousands,United States,National,BLS CES
+2025-01-01,3410.0,Information Employment,Thousands,United States,National,BLS CES
+2025-02-01,3414.0,Information Employment,Thousands,United States,National,BLS CES
+2025-03-01,3419.0,Information Employment,Thousands,United States,National,BLS CES
+2025-04-01,3421.0,Information Employment,Thousands,United States,National,BLS CES
+2025-05-01,3425.0,Information Employment,Thousands,United States,National,BLS CES
+2025-06-01,3425.0,Information Employment,Thousands,United States,National,BLS CES
+2025-07-01,3428.0,Information Employment,Thousands,United States,National,BLS CES
+2025-08-01,3434.0,Information Employment,Thousands,United States,National,BLS CES
+2025-09-01,3438.0,Information Employment,Thousands,United States,National,BLS CES
+2025-10-01,3439.0,Information Employment,Thousands,United States,National,BLS CES
+2025-11-01,3443.0,Information Employment,Thousands,United States,National,BLS CES
+2025-12-01,3449.0,Information Employment,Thousands,United States,National,BLS CES
+2017-01-01,8691.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-02-01,8710.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-03-01,8715.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-04-01,8728.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-05-01,8747.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-06-01,8744.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-07-01,8746.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-08-01,8753.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-09-01,8754.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-10-01,8778.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-11-01,8780.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-12-01,8784.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-01-01,8794.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-02-01,8792.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-03-01,8798.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-04-01,8809.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-05-01,8815.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-06-01,8823.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-07-01,8827.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-08-01,8823.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-09-01,8834.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-10-01,8859.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-11-01,8868.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-12-01,8879.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-01-01,8894.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-02-01,8891.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-03-01,8915.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-04-01,8926.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-05-01,8949.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-06-01,8952.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-07-01,8977.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-08-01,8993.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-09-01,9007.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-10-01,9018.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-11-01,9025.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-12-01,9045.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-01-01,9055.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-02-01,9046.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-03-01,9045.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-04-01,8774.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-05-01,8941.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-06-01,9134.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-07-01,9314.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-08-01,9557.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-09-01,9655.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-10-01,9855.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-11-01,9962.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-12-01,10200.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-01-01,10209.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-02-01,10223.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-03-01,10225.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-04-01,10248.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-05-01,10269.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-06-01,10285.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-07-01,10294.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-08-01,10310.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-09-01,10313.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-10-01,10333.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-11-01,10360.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-12-01,10381.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-01-01,10384.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-02-01,10398.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-03-01,10395.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-04-01,10412.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-05-01,10427.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-06-01,10418.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-07-01,10416.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-08-01,10423.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-09-01,10431.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-10-01,10429.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-11-01,10443.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-12-01,10456.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-01-01,10465.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-02-01,10467.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-03-01,10489.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-04-01,10516.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-05-01,10522.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-06-01,10526.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-07-01,10542.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-08-01,10548.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-09-01,10557.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-10-01,10576.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-11-01,10566.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-12-01,10591.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-01-01,10602.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-02-01,10608.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-03-01,10618.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-04-01,10628.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-05-01,10620.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-06-01,10647.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-07-01,10658.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-08-01,10673.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-09-01,10694.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-10-01,10694.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-11-01,10710.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-12-01,10718.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-01-01,10737.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-02-01,10725.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-03-01,10735.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-04-01,10739.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-05-01,10755.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-06-01,10770.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-07-01,10774.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-08-01,10777.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-09-01,10786.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-10-01,10787.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-11-01,10807.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-12-01,10814.0,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-01-01,21160.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-02-01,21173.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-03-01,21172.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-04-01,21159.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-05-01,21154.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-06-01,21177.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-07-01,21226.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-08-01,21254.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-09-01,21263.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-10-01,21294.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-11-01,21305.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-12-01,21312.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-01-01,21308.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-02-01,21292.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-03-01,21305.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-04-01,21330.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-05-01,21349.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-06-01,21362.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-07-01,21363.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-08-01,21397.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-09-01,21390.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-10-01,21428.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-11-01,21428.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-12-01,21434.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-01-01,21424.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-02-01,21434.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-03-01,21477.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-04-01,21509.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-05-01,21552.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-06-01,21585.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-07-01,21582.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-08-01,21597.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-09-01,21602.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-10-01,21652.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-11-01,21648.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-12-01,21689.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-01-01,21730.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-02-01,21791.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-03-01,21804.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-04-01,20060.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-05-01,20532.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-06-01,21177.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-07-01,21535.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-08-01,21801.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-09-01,22032.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-10-01,22551.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-11-01,22790.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-12-01,23203.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-01-01,23236.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-02-01,23264.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-03-01,23297.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-04-01,23326.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-05-01,23379.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-06-01,23380.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-07-01,23387.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-08-01,23393.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-09-01,23436.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-10-01,23480.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-11-01,23514.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-12-01,23566.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-01-01,23561.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-02-01,23624.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-03-01,23684.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-04-01,23725.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-05-01,23791.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-06-01,23775.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-07-01,23787.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-08-01,23793.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-09-01,23834.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-10-01,23833.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-11-01,23875.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-12-01,23931.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-01-01,23972.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-02-01,24002.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-03-01,24003.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-04-01,24006.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-05-01,24060.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-06-01,24103.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-07-01,24126.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-08-01,24140.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-09-01,24116.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-10-01,24114.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-11-01,24184.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-12-01,24177.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-01-01,24206.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-02-01,24255.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-03-01,24249.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-04-01,24277.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-05-01,24324.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-06-01,24349.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-07-01,24443.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-08-01,24427.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-09-01,24477.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-10-01,24497.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-11-01,24541.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-12-01,24576.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-01-01,24583.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-02-01,24613.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-03-01,24592.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-04-01,24631.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-05-01,24663.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-06-01,24704.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-07-01,24754.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-08-01,24788.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-09-01,24817.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-10-01,24820.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-11-01,24827.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-12-01,24881.0,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-01-01,23557.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-02-01,23575.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-03-01,23600.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-04-01,23602.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-05-01,23653.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-06-01,23693.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-07-01,23762.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-08-01,23765.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-09-01,23780.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-10-01,23809.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-11-01,23849.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-12-01,23867.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-01-01,23870.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-02-01,23915.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-03-01,23956.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-04-01,23958.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-05-01,24015.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-06-01,24067.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-07-01,24094.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-08-01,24120.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-09-01,24158.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-10-01,24161.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-11-01,24186.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-12-01,24158.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-01-01,24203.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-02-01,24190.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-03-01,24250.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-04-01,24267.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-05-01,24286.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-06-01,24295.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-07-01,24312.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-08-01,24371.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-09-01,24335.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-10-01,24390.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-11-01,24423.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-12-01,24418.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-01-01,24416.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-02-01,24481.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-03-01,24483.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-04-01,22034.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-05-01,22348.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-06-01,22922.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-07-01,23419.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-08-01,23778.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-09-01,24279.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-10-01,24640.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-11-01,25269.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-12-01,25908.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-01-01,25948.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-02-01,25983.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-03-01,26055.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-04-01,26081.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-05-01,26076.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-06-01,26114.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-07-01,26194.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-08-01,26194.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-09-01,26211.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-10-01,26248.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-11-01,26273.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-12-01,26273.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-01-01,26329.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-02-01,26416.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-03-01,26448.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-04-01,26451.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-05-01,26436.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-06-01,26469.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-07-01,26525.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-08-01,26564.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-09-01,26591.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-10-01,26601.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-11-01,26599.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-12-01,26648.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-01-01,26699.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-02-01,26684.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-03-01,26753.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-04-01,26795.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-05-01,26860.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-06-01,26851.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-07-01,26841.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-08-01,26864.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-09-01,26904.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-10-01,26979.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-11-01,27025.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-12-01,27046.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-01-01,27045.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-02-01,27105.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-03-01,27106.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-04-01,27178.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-05-01,27197.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-06-01,27267.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-07-01,27313.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-08-01,27337.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-09-01,27350.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-10-01,27368.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-11-01,27407.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-12-01,27437.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-01-01,27448.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-02-01,27471.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-03-01,27500.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-04-01,27469.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-05-01,27509.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-06-01,27510.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-07-01,27506.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-08-01,27487.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-09-01,27465.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-10-01,27455.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-11-01,27463.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-12-01,27544.0,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-01-01,16208.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-02-01,16227.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-03-01,16249.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-04-01,16268.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-05-01,16283.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-06-01,16280.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-07-01,16320.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-08-01,16365.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-09-01,16354.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-10-01,16354.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-11-01,16366.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-12-01,16366.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-01-01,16391.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-02-01,16395.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-03-01,16447.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-04-01,16483.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-05-01,16503.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-06-01,16537.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-07-01,16571.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-08-01,16579.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-09-01,16582.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-10-01,16600.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-11-01,16631.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2018-12-01,16649.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-01-01,16640.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-02-01,16643.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-03-01,16659.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-04-01,16674.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-05-01,16724.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-06-01,16717.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-07-01,16742.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-08-01,16784.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-09-01,16839.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-10-01,16849.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-11-01,16874.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2019-12-01,16900.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-01-01,16921.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-02-01,16936.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-03-01,16960.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-04-01,8819.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-05-01,8884.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-06-01,9092.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-07-01,9280.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-08-01,9455.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-09-01,9741.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-10-01,9903.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-11-01,10081.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2020-12-01,10383.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-01-01,10385.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-02-01,10389.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-03-01,10398.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-04-01,10417.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-05-01,10430.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-06-01,10427.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-07-01,10432.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-08-01,10436.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-09-01,10445.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-10-01,10460.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-11-01,10475.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2021-12-01,10467.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-01-01,10489.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-02-01,10502.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-03-01,10527.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-04-01,10542.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-05-01,10564.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-06-01,10580.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-07-01,10604.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-08-01,10621.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-09-01,10630.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-10-01,10665.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-11-01,10685.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2022-12-01,10702.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-01-01,10699.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-02-01,10696.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-03-01,10710.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-04-01,10722.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-05-01,10726.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-06-01,10738.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-07-01,10766.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-08-01,10784.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-09-01,10783.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-10-01,10792.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-11-01,10794.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2023-12-01,10801.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-01-01,10807.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-02-01,10813.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-03-01,10810.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-04-01,10820.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-05-01,10825.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-06-01,10804.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-07-01,10837.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-08-01,10859.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-09-01,10866.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-10-01,10877.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-11-01,10875.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2024-12-01,10905.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-01-01,10936.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-02-01,10949.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-03-01,10971.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-04-01,10984.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-05-01,10980.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-06-01,10987.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-07-01,10999.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-08-01,11005.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-09-01,11014.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-10-01,11024.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-11-01,11034.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2025-12-01,11045.0,Leisure & Hospitality Employment,Thousands,United States,National,BLS CES
+2017-01-01,27498.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-02-01,27506.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-03-01,27498.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-04-01,27553.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-05-01,27522.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-06-01,27581.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-07-01,27647.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-08-01,27667.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-09-01,27622.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-10-01,27640.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-11-01,27666.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-12-01,27665.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-01-01,27679.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-02-01,27749.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-03-01,27795.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-04-01,27797.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-05-01,27781.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-06-01,27799.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-07-01,27821.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-08-01,27863.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-09-01,27876.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-10-01,27918.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-11-01,28000.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-12-01,28051.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-01-01,28077.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-02-01,28100.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-03-01,28118.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-04-01,28180.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-05-01,28190.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-06-01,28220.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-07-01,28249.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-08-01,28263.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-09-01,28253.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-10-01,28290.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-11-01,28317.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-12-01,28359.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-01-01,28372.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-02-01,28436.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-03-01,28439.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-04-01,25595.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-05-01,26326.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-06-01,26623.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-07-01,27213.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-08-01,27822.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-09-01,28268.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-10-01,28893.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-11-01,29656.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-12-01,29920.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-01-01,29965.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-02-01,29920.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-03-01,29921.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-04-01,30000.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-05-01,30013.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-06-01,30007.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-07-01,30031.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-08-01,30124.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-09-01,30098.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-10-01,30097.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-11-01,30172.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-12-01,30258.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-01-01,30285.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-02-01,30278.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-03-01,30372.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-04-01,30451.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-05-01,30502.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-06-01,30508.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-07-01,30537.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-08-01,30562.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-09-01,30603.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-10-01,30678.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-11-01,30736.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-12-01,30733.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-01-01,30806.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-02-01,30847.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-03-01,30899.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-04-01,30975.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-05-01,30971.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-06-01,31001.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-07-01,31016.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-08-01,30998.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-09-01,31040.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-10-01,31149.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-11-01,31123.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-12-01,31153.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-01-01,31204.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-02-01,31239.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-03-01,31267.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-04-01,31257.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-05-01,31296.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-06-01,31304.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-07-01,31266.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-08-01,31335.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-09-01,31396.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-10-01,31429.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-11-01,31468.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-12-01,31533.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-01-01,31572.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-02-01,31632.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-03-01,31654.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-04-01,31727.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-05-01,31769.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-06-01,31807.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-07-01,31799.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-08-01,31840.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-09-01,31845.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-10-01,31856.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-11-01,31862.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-12-01,31860.0,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-01-01,712.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-02-01,714.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-03-01,716.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-04-01,716.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-05-01,717.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-06-01,716.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-07-01,717.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-08-01,717.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-09-01,718.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-10-01,719.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-11-01,720.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-12-01,721.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-01-01,724.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-02-01,723.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-03-01,725.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-04-01,727.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-05-01,727.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-06-01,728.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-07-01,729.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-08-01,730.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-09-01,730.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-10-01,730.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-11-01,732.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-12-01,733.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-01-01,734.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-02-01,734.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-03-01,734.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-04-01,736.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-05-01,736.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-06-01,736.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-07-01,737.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-08-01,738.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-09-01,738.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-10-01,739.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-11-01,741.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-12-01,742.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-01-01,742.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-02-01,742.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-03-01,744.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-04-01,655.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-05-01,671.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-06-01,680.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-07-01,694.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-08-01,701.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-09-01,716.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-10-01,737.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-11-01,748.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-12-01,760.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-01-01,761.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-02-01,761.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-03-01,761.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-04-01,762.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-05-01,763.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-06-01,763.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-07-01,764.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-08-01,766.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-09-01,766.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-10-01,767.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-11-01,768.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-12-01,769.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-01-01,770.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-02-01,770.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-03-01,771.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-04-01,771.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-05-01,772.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-06-01,772.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-07-01,772.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-08-01,773.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-09-01,774.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-10-01,775.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-11-01,775.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-12-01,776.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-01-01,778.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-02-01,779.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-03-01,779.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-04-01,780.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-05-01,781.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-06-01,782.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-07-01,781.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-08-01,782.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-09-01,784.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-10-01,785.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-11-01,785.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-12-01,786.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-01-01,787.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-02-01,789.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-03-01,789.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-04-01,790.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-05-01,791.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-06-01,792.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-07-01,793.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-08-01,795.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-09-01,796.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-10-01,796.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-11-01,797.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-12-01,798.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-01-01,799.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-02-01,800.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-03-01,801.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-04-01,802.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-05-01,803.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-06-01,803.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-07-01,803.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-08-01,804.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-09-01,806.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-10-01,807.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-11-01,808.0,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-12-01,810.0,Mining & Logging Employment,Thousands,United States,National,BLS CES

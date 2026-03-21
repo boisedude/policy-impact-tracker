@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.streamlit/secrets.toml
+.env
+.env.local
+webapp/node_modules/
+webapp/.next/
+.venv/

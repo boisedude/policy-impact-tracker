@@ -1,0 +1,11 @@
+congress,bill_type,bill_number,title,short_name,signed_date,policy_area,summary,is_landmark,economic_impact_category
+115,hr,1,Tax Cuts and Jobs Act,Tax Cuts and Jobs Act,2017-12-22,Taxation,Corporate tax cut 35%→21%; individual bracket changes; SALT cap $10K; estate tax doubled,True,Tax Policy
+116,hr,6201,Families First Coronavirus Response Act,Families First Act,2020-03-18,Labor and Employment,"Paid sick leave, free COVID testing, enhanced unemployment, food assistance",True,Labor & Safety Net
+116,hr,748,CARES Act,CARES Act,2020-03-27,Economics and Public Finance,"$2.2T COVID relief: PPP loans, $1,200 stimulus checks, $600/wk unemployment boost",True,Fiscal Stimulus
+116,hr,133,"Consolidated Appropriations Act, 2021",December 2020 COVID Relief,2020-12-27,Economics and Public Finance,"$900B relief: $600 stimulus checks, PPP extension, $300/wk unemployment",True,Fiscal Stimulus
+117,hr,1319,American Rescue Plan Act of 2021,American Rescue Plan,2021-03-11,Economics and Public Finance,"$1.9T: $1,400 stimulus checks, enhanced child tax credit, state/local aid, vaccine funding",True,Fiscal Stimulus
+117,hr,3684,Infrastructure Investment and Jobs Act,Bipartisan Infrastructure Law,2021-11-15,Transportation and Public Works,"$1.2T infrastructure: roads, bridges, broadband, water, EV charging, transit",True,Infrastructure & Investment
+117,hr,4346,CHIPS and Science Act,CHIPS and Science Act,2022-08-09,"Science, Technology, Communications","$280B: semiconductor manufacturing subsidies, R&D investment, supply chain security",True,Industrial Policy
+117,hr,5376,Inflation Reduction Act of 2022,Inflation Reduction Act,2022-08-16,Economics and Public Finance,"$738B: clean energy tax credits, Medicare drug negotiation, 15% corporate minimum tax, IRS funding",True,Tax & Energy Policy
+118,hr,2670,National Defense Authorization Act for FY2024,NDAA FY2024,2023-12-22,Armed Forces and National Security,"$886B defense: 5.2% military pay raise, procurement reform, Indo-Pacific deterrence",True,Defense Spending
+118,hr,815,National Security Supplemental,Ukraine/Israel/Taiwan Aid,2024-04-24,Foreign Trade and International Finance,"$95B: Ukraine military aid, Israel defense, Indo-Pacific security, TikTok divestiture",True,Foreign Aid & Trade
