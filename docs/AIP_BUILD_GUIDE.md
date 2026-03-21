@@ -270,6 +270,28 @@ See `docs/VIDEO_SCRIPT.md` for the full script.
 
 ---
 
+## DevTier Limitations to Know
+
+| Limitation | Details |
+|-----------|---------|
+| **LLM Rate Limit** | ~130,000 tokens/minute across all LLM calls. Keep agent prompts concise. |
+| **Compute/Storage** | Hard caps (check Control Panel > Your Plan). Not billed, just blocked. |
+| **Object Sets** | `.all()` throws an error if >100,000 objects. Our datasets are well under this. |
+| **Auth** | Only Authorization Code OAuth — no service-to-service. Fine for a demo. |
+| **Beta Features** | Must request via support ticket. Stick to GA features for the demo. |
+
+### Available LLMs on DevTier
+
+You can choose from: GPT-4o/4.1, Claude 3.5/4, Gemini 2.5, Llama 4, and others. For the agent, **GPT-4o** or **Claude 3.5 Sonnet** are good choices — fast and capable for briefing generation.
+
+### Key Learning Resources
+
+- **Speedrun: Your First E2E Workflow** (60-90 min): https://learn.palantir.com/speedrun-your-first-e2e-workflow
+- **Speedrun: Your First AIP Workflow**: https://learn.palantir.com/speedrun-your-e2e-aip-workflow
+- Complete these BEFORE building. They walk through exactly the steps above.
+
+---
+
 ## Troubleshooting
 
 ### Common DevTier Issues
@@ -279,6 +301,8 @@ See `docs/VIDEO_SCRIPT.md` for the full script.
 - **Ontology sync is slow:** DevTier has smaller compute. Wait a few minutes after publishing.
 - **AIP Logic function errors:** Test with minimal inputs first. Check that object type names match exactly.
 - **Agent doesn't use functions:** Make sure functions are published AND added to the agent's tool list.
+- **LLM rate limit errors:** Keep prompts short. Avoid bulk LLM operations. If hit, wait 60 seconds.
+- **Workflow Builder missing:** Manually enable in Control Panel > Application Access > Ontology.
 
 ### Getting Help
 
