@@ -1,14 +1,16 @@
 # Building the Economic Policy Impact Tracker in Palantir AIP
 
-This guide walks through the complete build — from pulling real federal data to a working AIP agent and Workshop app in Foundry DevTier.
+Complete guide — from pulling real federal data to a working AIP agent and Workshop dashboard in Foundry DevTier.
 
 **Time estimate:** 4-5 hours total across all phases.
+
+**Before you start:** Complete the Palantir "Speedrun: Your First E2E Workflow" tutorial (60-90 min) at https://learn.palantir.com/speedrun-your-first-e2e-workflow — it covers the Ontology and Workshop basics you'll need.
 
 ---
 
 ## Phase 0: Prerequisites (15 minutes)
 
-### Accounts You Need
+### Accounts
 
 1. **Palantir AIP DevTier** — https://www.palantir.com/aip/activate
 2. **FRED API key** (free, instant) — https://fred.stlouisfed.org/docs/api/api_key.html
@@ -20,31 +22,45 @@ This guide walks through the complete build — from pulling real federal data t
 pip install foundry-platform-sdk pandas pyarrow requests python-dotenv
 ```
 
-### Find Your Foundry Hostname and Space RID
+Note: The SDK package is `foundry-platform-sdk` but imports as `foundry_sdk`.
 
-1. Log into Foundry. Your URL will look like: `https://YOURNAME.usw-XX.palantirfoundry.com/`
-2. Your hostname is `YOURNAME.usw-XX.palantirfoundry.com`
-3. Generate a personal access token: **Settings** (gear icon) > **Tokens** > **Generate new token**
-   - Give it a name like "bootstrap"
+### Get Your Foundry Hostname and Token
+
+1. Log into Foundry. Your URL is: `https://YOURNAME.usw-XX.palantirfoundry.com/`
+2. Your hostname is everything after `https://` (e.g., `myname.usw-18.palantirfoundry.com`)
+3. Generate a personal access token:
+   - Click the **gear icon** (bottom-left) → **Tokens** → **Generate new token**
+   - Name: `bootstrap`
    - Grant all available scopes
-   - Copy the token immediately (you won't see it again)
+   - **Copy the token immediately** — you won't see it again
+   - Token expires in ~7 days
 
-4. Find your Space RID:
+### Find Your Space RID
+
 ```bash
 python scripts/foundry_bootstrap.py \
   --foundry-token YOUR_TOKEN \
   --foundry-host  YOURNAME.usw-XX.palantirfoundry.com \
   --list-spaces
 ```
-This will print your available spaces with their RIDs. Copy the RID for your space.
+
+This prints your available spaces. Copy the **RID** (starts with `ri.compass.main.folder.`).
+
+### Clean Up Example Objects (Important!)
+
+DevTier comes with example aviation object types (Airports, Flights, Aircraft, etc.) that count toward a ~60 object type limit. Before building:
+
+1. Open **Ontology Manager** (search for it with **Cmd+K** or **Ctrl+K**)
+2. Check how many example object types exist (they're prefixed with `[Example]`)
+3. If you're close to the limit, delete the ones you don't need
 
 ---
 
 ## Phase 1: Data Pipeline (20 minutes)
 
-The bootstrap script pulls **real data** from federal APIs and uploads it directly to Foundry as queryable Parquet datasets.
+The bootstrap script pulls **real federal economic data** and uploads it to Foundry.
 
-### Run the Bootstrap
+### Run It
 
 ```bash
 python scripts/foundry_bootstrap.py \
@@ -54,144 +70,345 @@ python scripts/foundry_bootstrap.py \
   --space-rid     ri.compass.main.folder.XXXXX
 ```
 
-### What It Does
+### What It Creates in Foundry
 
-1. **Pulls from FRED** (Federal Reserve Economic Data):
-   - 10 national indicators: GDP, CPI, unemployment, payrolls, manufacturing employment, Fed funds rate, PCE, industrial production, retail sales
-   - State-level data for 10 states (ID, TX, CA, OH, PA, AZ, MI, GA, NC, WA)
-   - Date range: 2010 to present
+A folder called **"Economic Policy Impact Tracker"** with three datasets:
 
-2. **Pulls from BLS** (Bureau of Labor Statistics):
-   - Employment by industry sector: manufacturing, construction, information, financial, healthcare, etc.
-   - 9 industry sectors, monthly data since 2010
+| Dataset | ~Records | Primary Key | Contents |
+|---------|----------|-------------|----------|
+| `economic_indicators` | ~5,600 | `pk` (series_id:date) | FRED national (GDP, CPI, unemployment, etc.) + state-level (10 states) — all in one dataset |
+| `bls_national_industry` | ~1,700 | `pk` (indicator:date) | BLS employment by industry sector (9 sectors) |
+| `policy_timeline` | 43 | `bill_id` (congress_type_number) | Enacted laws: 7 landmarks + 36 major economic bills |
 
-3. **Builds a curated policy timeline:**
-   - 7 landmark bills: Tax Cuts and Jobs Act, CARES Act, American Rescue Plan, Infrastructure Act, CHIPS Act, Inflation Reduction Act, NDAA FY2024
-   - 36 additional economically significant laws: major appropriations, budget deals, trade agreements, COVID response, financial regulation
-   - 43 total bills, all real, all from Congress.gov
+**Why one combined FRED dataset?** Foundry Object Types need a single backing dataset. Multi-datasource Object Types (MDOs) only support column-wise joins, not row unions. So we union national + state data upfront with a synthetic primary key.
 
-4. **Uploads everything to Foundry** as Parquet datasets with proper schemas.
+The script prints the **dataset RIDs** at the end. Save them.
 
-### What You'll See in Foundry After Running
+### Data Sources (All Real)
 
-In your Space, a new folder: **Economic Policy Impact Tracker** containing:
-
-| Dataset | ~Records | What It Contains |
-|---------|----------|-----------------|
-| `fred_national_indicators` | ~1,800 | GDP, CPI, unemployment, etc. (national) |
-| `fred_state_indicators` | ~3,800 | Unemployment + employment for 10 states |
-| `bls_national_industry` | ~1,700 | Employment by industry sector |
-| `policy_timeline` | 43 | Enacted laws with signing dates |
-
-The script prints the **dataset RIDs** at the end — save these, you'll need them for the Ontology.
+- **FRED** (Federal Reserve Economic Data): GDP, CPI, Core CPI, unemployment, payrolls, manufacturing employment, Fed funds rate, PCE, industrial production, retail sales. National + 10 states. 2010-present.
+- **BLS** (Bureau of Labor Statistics): Employment by sector — manufacturing, construction, information, financial, healthcare, etc. National, monthly, 2010-present.
+- **Congress.gov**: 43 curated laws including Tax Cuts & Jobs Act, CARES, American Rescue Plan, Infrastructure Act, CHIPS Act, Inflation Reduction Act, plus major appropriations, trade deals, and COVID response bills.
 
 ---
 
 ## Phase 2: Build the Ontology (45 minutes)
 
-The Ontology turns your datasets into connected objects that the AIP agent can reason about.
+The Ontology turns flat datasets into connected objects the AIP agent can reason about.
 
-### Step 1: Open Ontology Manager
+### Open Ontology Manager
 
-1. In Foundry, click the **compass icon** (left sidebar) to browse files
-2. Navigate to your **Economic Policy Impact Tracker** folder
-3. Click on any dataset (e.g., `fred_national_indicators`)
-4. In the dataset view, look for **"Create object type"** or go to **Ontology Manager** from the left sidebar
+- Press **Cmd+K** (Mac) or **Ctrl+K** (Windows) and search "Ontology Manager"
+- Or find it in the left sidebar under Ontology building tools
 
-### Step 2: Create "Economic Indicator Reading" Object Type
+### Object Type 1: Economic Indicator Reading
 
-This is your main object — each row is one data point (e.g., "CPI was 305.2 in January 2024").
+Each row = one data point (e.g., "CPI was 305.2 in January 2024")
 
-1. Click **Create Object Type**
+1. In Ontology Manager, click **New** → **Create object type**
 2. Name: `Economic Indicator Reading`
-3. Click **Back with dataset** → select `fred_national_indicators`
-4. Map these properties:
+3. Click **Select a backing datasource** → navigate to your project folder → select `economic_indicators`
+4. Foundry auto-detects columns. Map these properties:
 
-| Property | Column | Type | Nullable |
-|----------|--------|------|----------|
-| date | date | Date | No |
-| value | value | Double | No |
-| indicator_name | indicator_name | String | No |
-| unit | unit | String | No |
-| geography | geography | String | No |
-| geo_level | geo_level | String | No |
-| series_id | series_id | String | No |
+| Property | Column | Type |
+|----------|--------|------|
+| pk | pk | String |
+| date | date | Date |
+| value | value | Double |
+| indicator_name | indicator_name | String |
+| unit | unit | String |
+| geography | geography | String |
+| state_code | state_code | String (nullable) |
+| geo_level | geo_level | String |
+| series_id | series_id | String |
 
-5. **Primary Key:** `series_id` + `date` (composite)
-6. Click **Save** and **Publish**
+5. **Primary Key:** `pk` (the synthetic key: `series_id:YYYY-MM-DD`)
+6. **Title Key:** Set to `indicator_name` (what shows up as the display name)
+7. Click **Save** (upper right)
 
-7. **Add a second backing dataset:** After creating, edit the object type and add `fred_state_indicators` as an additional backing dataset. The columns match, so Foundry will union them automatically. This gives you both national and state-level data in one object type.
+### Object Type 2: Industry Employment
 
-### Step 3: Create "Policy Action" Object Type
+Each row = one industry sector employment reading.
 
-Each row is an enacted law.
+1. **New** → **Create object type**
+2. Name: `Industry Employment`
+3. Backing datasource: `bls_national_industry`
+4. Properties:
 
-1. **Create Object Type** → name: `Policy Action`
-2. Back with dataset → `policy_timeline`
-3. Map these properties:
+| Property | Column | Type |
+|----------|--------|------|
+| pk | pk | String |
+| date | date | Date |
+| value | value | Double |
+| indicator_name | indicator_name | String |
+| unit | unit | String |
+| geography | geography | String |
 
-| Property | Column | Type | Nullable |
-|----------|--------|------|----------|
-| short_name | short_name | String | No |
-| signed_date | signed_date | Date | No |
-| policy_area | policy_area | String | No |
-| summary | summary | String | Yes |
-| is_landmark | is_landmark | Boolean | No |
-| congress | congress | Integer | No |
-| bill_type | bill_type | String | No |
-| bill_number | bill_number | Integer | No |
+5. **Primary Key:** `pk`
+6. **Title Key:** `indicator_name`
+7. **Save**
 
-4. **Primary Key:** You'll need a unique ID. Options:
-   - Use a **computed property**: `congress` + `_` + `bill_type` + `_` + `bill_number` (e.g., "117_hr_5376")
-   - Or use `bill_number` if you're only covering one Congress at a time
+### Object Type 3: Policy Action
 
-5. **Save** and **Publish**
+Each row = one enacted law.
 
-### Step 4: Create "Industry Employment" Object Type
+1. **New** → **Create object type**
+2. Name: `Policy Action`
+3. Backing datasource: `policy_timeline`
+4. Properties:
 
-1. **Create Object Type** → name: `Industry Employment`
-2. Back with dataset → `bls_national_industry`
-3. Map:
+| Property | Column | Type |
+|----------|--------|------|
+| bill_id | bill_id | String |
+| short_name | short_name | String |
+| signed_date | signed_date | Date |
+| policy_area | policy_area | String |
+| summary | summary | String (nullable) |
+| is_landmark | is_landmark | Boolean |
+| congress | congress | Integer |
+| bill_type | bill_type | String |
+| bill_number | bill_number | Integer |
 
-| Property | Column | Type | Nullable |
-|----------|--------|------|----------|
-| date | date | Date | No |
-| value | value | Double | No |
-| indicator_name | indicator_name | String | No |
-| unit | unit | String | No |
-| geography | geography | String | No |
+5. **Primary Key:** `bill_id` (e.g., `117_hr_5376`)
+6. **Title Key:** `short_name`
+7. **Save**
 
-4. **Primary Key:** `indicator_name` + `date` (composite)
-5. **Save** and **Publish**
+### After Saving All Three
 
-### Step 5: Create Link Types (Relationships)
+Wait 2-3 minutes for DevTier to sync the object types. You can verify by:
+- Going to Ontology Manager → Object Types and checking status
+- Trying to search for objects in the Ontology search bar
 
-This is optional but makes the agent smarter:
+### Link Types (Optional)
 
-1. In Ontology Manager, go to **Link Types**
-2. Create: **Policy Action** → **Economic Indicator Reading**
-   - Name: `impacts_indicators`
-   - Logic: indicator readings where `date >= policy.signed_date`
-   - This lets you ask "what happened to GDP after the CHIPS Act?"
+You can create a link between Policy Action and Economic Indicator Reading:
+- In Ontology Manager → **Link Types** → **New**
+- From: Policy Action → To: Economic Indicator Reading
+- Name: `impacts_indicators`
 
-**Note:** If link types are complex to set up in DevTier, skip this — the AIP Functions in Phase 3 will handle the correlation logic instead.
+**However:** This is hard to configure as a time-based link in the UI. If it's causing friction, skip it — the AIP Agent can correlate by date without explicit links.
 
 ---
 
-## Phase 3: AIP Functions (60 minutes)
+## Phase 3: AIP Agent (45 minutes)
 
-Functions let the LLM query your ontology programmatically.
+This is the core of the demo — an agent that can query your Ontology and produce Senate-style briefing memos.
 
-### Where to Create Functions
+### Why Skip Custom Functions
 
-1. Go to your project folder in Compass
-2. Click **+ New** → **Code repository** (or **Function**)
-3. Select **TypeScript** as the language
+The AIP Agent has a built-in **Object Query** tool that can search, filter, and aggregate your Ontology objects directly — no custom code needed. For this demo, Object Query is sufficient and saves you the complexity of Code Repositories.
 
-### Function 1: queryIndicatorTrend
+(If you want to add custom Functions later for more precise calculations, see the appendix at the end of this guide.)
+
+### Create the Agent
+
+1. Press **Cmd+J** (Mac) or **Ctrl+J** (Windows) to open quick search
+2. Search "AIP Agent" or navigate to **Files** → **+ New** → **AIP Agent**
+3. Save it in your project folder
+4. Name: **Economic Policy Analyst**
+
+### Choose a Model
+
+Under model settings, select **GPT-4o** or **Claude 3.5 Sonnet**. Both are available on DevTier and work well for briefing generation.
+
+### Add Tools
+
+In the agent configuration, add tools:
+
+1. **Object Query** — this is the key tool
+   - Configure it with access to all three object types:
+     - Economic Indicator Reading
+     - Industry Employment
+     - Policy Action
+   - The agent will be able to search, filter, and aggregate objects
+
+### Add Retrieval Context (Optional but Recommended)
+
+1. Add **Ontology context** for Policy Action
+   - This gives the agent awareness of the policy timeline without needing to query it every time
+   - Select only key properties: `short_name`, `signed_date`, `policy_area`, `is_landmark`, `summary`
+   - **Do NOT include** all properties — token overflow is a common DevTier issue
+
+### Set the System Prompt
+
+```
+You are an economic policy analyst supporting a United States Senator's office. Your job is to correlate economic indicator data with legislative timelines and produce professional briefing memos.
+
+Available data:
+- Economic indicators (2010-present): GDP, CPI, Core CPI, unemployment rate, total nonfarm payroll, manufacturing employment, Federal funds rate, PCE price index, industrial production, retail sales. National data plus state-level for ID, TX, CA, OH, PA, AZ, MI, GA, NC, WA.
+- Industry employment (2010-present): 9 sectors including manufacturing, construction, information, financial activities, education & health, professional services, trade/transport/utilities.
+- Policy timeline (2017-2025): 43 economically significant enacted laws including Tax Cuts & Jobs Act (Dec 2017), CARES Act (Mar 2020), American Rescue Plan (Mar 2021), Infrastructure Act (Nov 2021), CHIPS Act (Aug 2022), and Inflation Reduction Act (Aug 2022).
+
+When answering questions:
+1. Query the relevant indicator data for the time period
+2. Identify what legislation was active in that period
+3. Quantify changes with specific numbers and percentages
+4. Present findings as a concise, politically neutral briefing memo with clear sections
+
+Always cite specific data points, dates, and values. Use the Object Query tool to look up exact numbers rather than guessing.
+```
+
+### Test Questions
+
+Try these to verify the agent works:
+
+1. **"How has manufacturing employment changed since the CHIPS Act was signed?"**
+   - Should query Economic Indicator Reading for Manufacturing Employment from Aug 2022 onward
+
+2. **"What was the unemployment impact of the COVID stimulus packages?"**
+   - Should query unemployment data 2019-2022, reference CARES Act + American Rescue Plan
+
+3. **"Brief me on inflation trends since 2021"**
+   - Should pull CPI and PCE data, note Inflation Reduction Act
+
+4. **"Compare Idaho and California unemployment during COVID recovery"**
+   - Should query state-level data for both states, show different trajectories
+
+**If the agent can't find data:** Verify in Ontology Manager that your object types are published and the agent has the Object Query tool configured for each type.
+
+**If you hit rate limits:** DevTier has ~130,000 tokens/minute. Wait 60 seconds and try again. Keep prompts concise.
+
+---
+
+## Phase 4: Workshop App (60 minutes)
+
+### Create the App
+
+1. Press **Cmd+K** and search "Workshop"
+2. Click **+ Create new application**
+3. Name: **Economic Policy Impact Tracker**
+4. Save in your project folder
+
+If you don't see Workshop, go to **Control Panel** → **Application Access** and enable it.
+
+### Layout
+
+#### Row 1 — Controls (full width)
+
+Add three control widgets:
+
+- **Dropdown: Select Indicator**
+  - Data source: Economic Indicator Reading, property `indicator_name`
+  - This populates with: Real GDP, CPI All Urban Consumers, Unemployment Rate, etc.
+
+- **Dropdown: Select Geography**
+  - Data source: Economic Indicator Reading, property `geography`
+  - Populates with: United States, Idaho, Texas, California, etc.
+
+- **Date Range Picker**
+  - Default: 2018-01-01 to present
+
+Connect these to **application variables** so they filter other widgets.
+
+#### Row 2 — Visualization (2/3 + 1/3 split)
+
+- **Time Series Chart** (2/3 width)
+  - Widget: Chart XY or Time Series Analysis
+  - Data: Economic Indicator Reading objects, filtered by the dropdown variables
+  - X-axis: `date`
+  - Y-axis: `value`
+  - Add **vertical reference lines** for Policy Action `signed_date` (landmark bills only)
+
+- **Metric Cards** (1/3 width)
+  - Latest value
+  - Period change (%)
+  - Trend direction
+
+#### Row 3 — AI Briefing (full width)
+
+- **AIP Agent widget**
+  - Found under AIP widgets section
+  - Select your "Economic Policy Analyst" agent
+  - Optionally toggle "Show agent reasoning"
+  - Map application variables so the agent knows the current filter context
+
+#### Row 4 — Policy Timeline (full width)
+
+- **Object Table**
+  - Data: Policy Action objects
+  - Columns: `short_name`, `signed_date`, `policy_area`, `is_landmark`
+  - Sort by `signed_date` descending
+  - Filter by the date range variable
+
+### Connecting Widgets Together
+
+Workshop widgets communicate via **application variables**:
+1. Create variables for: `selectedIndicator`, `selectedGeography`, `startDate`, `endDate`
+2. Wire each dropdown/picker to write its variable
+3. Wire the chart and table to filter by those variables
+4. Wire the agent widget to read those variables as context
+
+---
+
+## Phase 5: Record the Demo (30 minutes)
+
+See `docs/VIDEO_SCRIPT.md` for the full 5-minute script.
+
+### Key Demo Flow
+
+1. **The problem** (30 sec): "Every week in the Senator's office, correlating economic data with legislation takes hours of manual research across multiple federal databases..."
+2. **The data pipeline** (45 sec): Show the three datasets. Explain: FRED, BLS, Congress.gov → Foundry.
+3. **The Ontology** (30 sec): Show the three object types and how they're structured.
+4. **Live agent queries** (2 min): Ask 2-3 questions. Show the agent querying real data and producing briefings.
+5. **The dashboard** (1 min): Filter by state, change indicators, show policy overlay on the chart.
+6. **Impact** (15 sec): "What used to take 2 hours of manual research is now a 30-second query."
+
+---
+
+## DevTier Limitations
+
+| Limitation | Details |
+|-----------|---------|
+| **Object Type limit** | ~60 total. Delete unused example types if near the limit. |
+| **LLM Rate Limit** | ~130,000 tokens/minute. Keep agent prompts concise. Wait 60s if throttled. |
+| **Compute/Storage** | Hard caps (Control Panel → Your Plan). Not billed, just blocked. |
+| **Object Sets** | `.all()` errors above 100,000 objects. Our datasets are well under this. |
+| **Auth** | Authorization Code OAuth only. No service-to-service tokens. |
+| **Token overflow** | When using Ontology context in agents, select only the properties you need. |
+
+### Available LLMs
+
+GPT-4o/4.1, Claude 3.5/4, Gemini 2.5, Llama 4, and others. **GPT-4o** or **Claude 3.5 Sonnet** recommended.
+
+### Resources
+
+- **Speedrun: Your First E2E Workflow** (essential): https://learn.palantir.com/speedrun-your-first-e2e-workflow
+- **Speedrun: Your First AIP Workflow**: https://learn.palantir.com/speedrun-your-e2e-aip-workflow
+- **Palantir Developer Community**: https://community.palantir.com/
+- **AIP for Developers**: https://www.palantir.com/aip/developers/
+
+---
+
+## Troubleshooting
+
+| Problem | Fix |
+|---------|-----|
+| `foundry_sdk` not found | Package is `foundry-platform-sdk`, imports as `foundry_sdk` |
+| `ApiFeaturePreviewUsageOnly` | Update SDK: `pip install --upgrade foundry-platform-sdk` (need >= 1.70) |
+| FRED API returns 500 | Transient server error. Script retries automatically. If persistent, wait a few minutes. |
+| Datasets show "no schema" in Foundry | The bootstrap sets schemas. If missing, check the script output for errors. |
+| Object type won't sync | DevTier has limited compute. Wait 2-3 minutes after publishing. |
+| Agent can't find data | Verify object types are published in Ontology Manager and the Object Query tool is configured for each type. |
+| Agent hits token overflow | In Ontology context config, select only key properties. Exclude large text fields. |
+| Workshop not visible | Enable via Control Panel → Application Access. |
+| Object type limit exceeded | Delete unused `[Example]` object types in Ontology Manager. |
+
+---
+
+## Appendix: Custom Functions (Optional)
+
+If you want more precise agent capabilities, you can create custom Functions in a Code Repository. This is optional — the Object Query tool handles most queries.
+
+### Setup
+
+1. In your project folder: **+ New** → **Code Repository**
+2. Language: **TypeScript**
+3. Foundry auto-generates type-safe bindings from your Ontology
+
+### Example: queryIndicatorTrend
 
 ```typescript
-import { Function, OntologyEditFunction } from "@foundry/functions-api";
+import { Function } from "@foundry/functions-api";
 import { Objects, EconomicIndicatorReading } from "@foundry/ontology-api";
 
 export class EconFunctions {
@@ -215,233 +432,12 @@ export class EconFunctions {
 }
 ```
 
-### Function 2: findPoliciesInRange
+### Deploying Functions
 
-```typescript
-@Function()
-public findPoliciesInRange(
-  startDate: string,
-  endDate: string,
-  policyArea?: string
-): PolicyAction[] {
-  let query = Objects.search()
-    .policyAction()
-    .filter(r =>
-      r.signedDate.range().gte(startDate).lte(endDate)
-    );
+1. Write code in the Code Repository editor
+2. Click **Build** to compile
+3. Click **Tag** to create a release
+4. Functions auto-publish to the Ontology
+5. In Agent Studio, add a **Function** tool and select your function
 
-  if (policyArea) {
-    query = query.filter(r => r.policyArea.exactMatch(policyArea));
-  }
-
-  return query.orderBy(r => r.signedDate.asc()).all();
-}
-```
-
-### Function 3: calculateImpactSincePolicy
-
-```typescript
-@Function()
-public calculateImpactSincePolicy(
-  indicatorName: string,
-  geography: string,
-  policySignedDate: string,
-  monthsAfter: number = 12
-): string {
-  // Get value at policy date
-  const baseline = Objects.search()
-    .economicIndicatorReading()
-    .filter(r =>
-      r.indicatorName.exactMatch(indicatorName)
-      && r.geography.exactMatch(geography)
-      && r.date.range().lte(policySignedDate)
-    )
-    .orderBy(r => r.date.desc())
-    .take(1);
-
-  // Get value monthsAfter later
-  const endDate = new Date(policySignedDate);
-  endDate.setMonth(endDate.getMonth() + monthsAfter);
-
-  const later = Objects.search()
-    .economicIndicatorReading()
-    .filter(r =>
-      r.indicatorName.exactMatch(indicatorName)
-      && r.geography.exactMatch(geography)
-      && r.date.range().lte(endDate.toISOString().split('T')[0])
-    )
-    .orderBy(r => r.date.desc())
-    .take(1);
-
-  if (baseline.length === 0 || later.length === 0) {
-    return "Insufficient data for this indicator/geography combination.";
-  }
-
-  const beforeVal = baseline[0].value!;
-  const afterVal = later[0].value!;
-  const changePct = ((afterVal - beforeVal) / beforeVal * 100).toFixed(2);
-  const trend = afterVal > beforeVal ? "increased" : "decreased";
-
-  return `${indicatorName} in ${geography}: ${trend} from ${beforeVal} to ${afterVal} (${changePct}%) over ${monthsAfter} months after policy signing.`;
-}
-```
-
-### How to Deploy
-
-1. Write the code in the Code Repository editor
-2. Click **Build** (or **Checks**) — Foundry compiles and validates
-3. Click **Tag** to create a release version
-4. The functions auto-publish to the Ontology and become available to AIP agents
-
-**Important:** The exact TypeScript API depends on your Ontology naming. Foundry auto-generates type-safe bindings from your object type names. If your object type is "Economic Indicator Reading", the generated class is `EconomicIndicatorReading`.
-
-**If Functions are too complex:** You can skip this phase and go straight to the AIP Agent in Phase 4. The agent can reason over the Ontology objects directly without custom functions — functions just make it more precise.
-
----
-
-## Phase 4: AIP Agent (30 minutes)
-
-### Create the Agent
-
-1. Go to **AIP Agent Studio** (left sidebar or search for it)
-2. Click **Create Agent**
-3. Name: **Economic Policy Analyst**
-4. **Model:** GPT-4o or Claude 3.5 Sonnet (both available on DevTier)
-
-### System Prompt
-
-```
-You are an economic policy analyst supporting a United States Senator's office.
-
-Your job is to correlate economic indicator data with legislative timelines and produce Senate-style briefing memos.
-
-When asked about economic indicators or policy impacts:
-1. Query the relevant indicator data for the time period
-2. Identify what legislation was signed in that period
-3. Quantify the changes (percentage change, trend direction)
-4. Synthesize into a professional briefing memo
-
-Data available:
-- National indicators: GDP, CPI, unemployment, payrolls, manufacturing employment, Fed funds rate, PCE, industrial production, retail sales (2010-present)
-- State-level: unemployment rate and employment for ID, TX, CA, OH, PA, AZ, MI, GA, NC, WA
-- Industry employment: 9 sectors (manufacturing, construction, information, financial, healthcare, etc.)
-- Policy timeline: 43 economically significant laws (2017-2025) including Tax Cuts & Jobs Act, CARES Act, American Rescue Plan, Infrastructure Act, CHIPS Act, Inflation Reduction Act
-
-Always cite specific data points and dates. Be politically neutral.
-Format responses as professional briefing memos with sections.
-```
-
-### Give the Agent Tools
-
-- Add your **three functions** as tools (if you built them in Phase 3)
-- OR add **Ontology object search** permissions for your three object types
-- The agent needs read access to: Economic Indicator Reading, Policy Action, Industry Employment
-
-### Test Questions
-
-Try these in the agent chat:
-
-1. **"How has manufacturing employment changed since the CHIPS Act was signed?"**
-   - Agent should: pull manufacturing data from Aug 2022 onward, note the CHIPS Act signing date, calculate change
-
-2. **"What was the unemployment impact of the COVID stimulus packages?"**
-   - Agent should: pull unemployment data 2019-2022, correlate with CARES Act (Mar 2020), American Rescue Plan (Mar 2021)
-
-3. **"Brief me on inflation trends since 2021 and what legislation might have contributed"**
-   - Agent should: pull CPI/PCE data, identify Inflation Reduction Act, American Rescue Plan, note the trajectory
-
-4. **"Compare Idaho and California unemployment rates during COVID recovery"**
-   - Agent should: pull state-level data for both states, show the different recovery curves
-
----
-
-## Phase 5: Workshop App (60 minutes)
-
-### Create the App
-
-1. Go to **Workshop** (left sidebar)
-2. **Create new application**: "Economic Policy Impact Tracker"
-
-### Layout
-
-**Row 1 — Controls (full width):**
-- **Dropdown:** Select Indicator — populated from the `indicator_name` property of Economic Indicator Reading
-- **Dropdown:** Select Geography — "United States" + the 10 state names
-- **Date Range Picker:** Start/End dates (default: 2018-01-01 to present)
-
-**Row 2 — Charts (split 2/3 + 1/3):**
-- **Time Series Chart** (2/3 width):
-  - Data source: Economic Indicator Reading objects, filtered by the dropdowns
-  - X-axis: `date`
-  - Y-axis: `value`
-  - Add **vertical reference lines** for Policy Action `signed_date` values (landmark bills)
-- **Stats Card** (1/3 width):
-  - Latest value
-  - Period change (%)
-  - Trend direction arrow
-
-**Row 3 — AI Briefing Panel (full width):**
-- **Text Input:** "Ask a question about economic policy..."
-- **AIP Agent Panel:** Connected to your "Economic Policy Analyst" agent
-- The agent response appears below the input
-
-**Row 4 — Policy Timeline (full width):**
-- **Object Table:** Policy Action objects, sorted by `signed_date` desc
-- Columns: `short_name`, `signed_date`, `policy_area`, `is_landmark`
-- Click a row to see details
-
-### Connecting Widgets
-
-- The dropdowns filter the chart data via **variables**
-- The date range picker filters both the chart and the policy table
-- The agent panel passes the current filter context to the agent
-
----
-
-## Phase 6: Record the Demo (30 minutes)
-
-See `docs/VIDEO_SCRIPT.md` for the full 5-minute script.
-
-### Key Demo Flow
-
-1. **Open with the problem** (30 sec): "Every week in the Senator's office, correlating economic data with legislation takes hours..."
-2. **Show the data pipeline** (45 sec): Explain FRED/BLS/Congress.gov → Foundry. Show the datasets.
-3. **Show the Ontology** (30 sec): Object types, how they're connected
-4. **Live queries** (2 min): Ask the agent 2-3 questions, show it reasoning over real data
-5. **Workshop dashboard** (1 min): Show the chart, filter by state, overlay policy dates
-6. **Close with impact** (15 sec): "2-hour research task → 30-second query"
-
----
-
-## DevTier Limitations
-
-| Limitation | Details |
-|-----------|---------|
-| **LLM Rate Limit** | ~130,000 tokens/minute. Keep agent prompts concise. |
-| **Compute/Storage** | Hard caps (check Control Panel > Your Plan). Not billed, just blocked. |
-| **Object Sets** | `.all()` errors above 100,000 objects. Our datasets are well under this. |
-| **Auth** | Authorization Code OAuth only. Fine for a demo. |
-
-### Available LLMs
-
-GPT-4o/4.1, Claude 3.5/4, Gemini 2.5, Llama 4, and others. For the agent, **GPT-4o** or **Claude 3.5 Sonnet** are good choices.
-
-### Learning Resources
-
-- **Speedrun: Your First E2E Workflow** (60-90 min): https://learn.palantir.com/speedrun-your-first-e2e-workflow
-- **Speedrun: Your First AIP Workflow**: https://learn.palantir.com/speedrun-your-e2e-aip-workflow
-- Complete at least the first one before building. It covers Ontology + Workshop basics.
-
----
-
-## Troubleshooting
-
-| Problem | Fix |
-|---------|-----|
-| **Bootstrap script fails with `foundry_sdk` not found** | `pip install foundry-platform-sdk` (note: imports as `foundry_sdk`) |
-| **"ApiFeaturePreviewUsageOnly" error** | The SDK handles this — make sure you're on `foundry-platform-sdk >= 1.70` |
-| **FRED 500 errors** | Transient — the script retries automatically. If persistent, wait a few minutes. |
-| **Datasets show "no schema"** | The bootstrap sets schemas automatically. If missing, re-run the upload. |
-| **Object type won't sync** | DevTier has smaller compute. Wait 2-3 minutes after publishing. |
-| **Agent doesn't find data** | Verify the object types are published and the agent has access to them. |
-| **Functions won't compile** | Check that your object type API names match exactly (case-sensitive). |
+**Note:** The generated type names (e.g., `EconomicIndicatorReading`) depend on your exact Ontology naming. Check the auto-generated imports.

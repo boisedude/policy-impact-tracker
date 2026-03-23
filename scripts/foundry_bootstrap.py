@@ -318,9 +318,60 @@ def list_spaces(client):
         print()
 
 
+def prepare_datasets(dataframes):
+    """Prepare datasets for Foundry: union FRED data, add synthetic primary keys."""
+
+    # Union national + state FRED data into one dataset
+    # Foundry Object Types need a single backing dataset (MDOs are column-wise only)
+    national = dataframes["national"].copy()
+    state = dataframes["state"].copy()
+
+    # Normalize columns: national has 'frequency', state has 'state_code'
+    if "frequency" not in state.columns:
+        state["frequency"] = None
+    if "state_code" not in national.columns:
+        national["state_code"] = None
+
+    # Ensure both have the same columns in the same order
+    shared_cols = ["date", "value", "series_id", "indicator_name", "frequency",
+                   "unit", "geography", "state_code", "geo_level"]
+    national = national[[c for c in shared_cols if c in national.columns]]
+    state = state[[c for c in shared_cols if c in state.columns]]
+
+    economic_indicators = pd.concat([national, state], ignore_index=True)
+
+    # Add synthetic primary keys (Foundry doesn't support composite keys)
+    economic_indicators["pk"] = (
+        economic_indicators["series_id"].astype(str) + ":"
+        + pd.to_datetime(economic_indicators["date"]).dt.strftime("%Y-%m-%d")
+    )
+
+    bls = dataframes["bls"].copy()
+    bls["pk"] = (
+        bls["indicator_name"].astype(str).str.replace(" ", "_") + ":"
+        + pd.to_datetime(bls["date"]).dt.strftime("%Y-%m-%d")
+    )
+
+    policy = dataframes["policy"].copy()
+    policy["bill_id"] = (
+        policy["congress"].astype(str) + "_"
+        + policy["bill_type"].astype(str) + "_"
+        + policy["bill_number"].astype(str)
+    )
+
+    return {
+        "economic_indicators": economic_indicators,
+        "bls_national_industry": bls,
+        "policy_timeline": policy,
+    }
+
+
 def upload_to_foundry(client, space_rid, dataframes):
     """Create project folder, datasets, and upload data to Foundry."""
     from foundry_sdk.v2.core.models import DatasetSchema, DatasetFieldSchema
+
+    # Prepare datasets (union FRED, add synthetic keys)
+    prepared = prepare_datasets(dataframes)
 
     # Create project folder inside the space
     print("\nCreating project folder in Foundry...")
@@ -332,28 +383,27 @@ def upload_to_foundry(client, space_rid, dataframes):
     print(f"  Created: {folder.path} (RID: {folder.rid})")
 
     # Dataset definitions: name -> (dataframe, schema fields)
+    # Each dataset has a synthetic primary key ("pk" or "bill_id")
     dataset_defs = {
-        "fred_national_indicators": (
-            dataframes["national"],
-            [("DATE", "date", False), ("DOUBLE", "value", False), ("STRING", "series_id", False),
-             ("STRING", "indicator_name", False), ("STRING", "frequency", True),
-             ("STRING", "unit", False), ("STRING", "geography", False), ("STRING", "geo_level", False)],
-        ),
-        "fred_state_indicators": (
-            dataframes["state"],
-            [("DATE", "date", False), ("DOUBLE", "value", False), ("STRING", "series_id", False),
-             ("STRING", "indicator_name", False), ("STRING", "unit", False),
-             ("STRING", "geography", False), ("STRING", "state_code", False), ("STRING", "geo_level", False)],
+        "economic_indicators": (
+            prepared["economic_indicators"],
+            [("STRING", "pk", False), ("DATE", "date", False), ("DOUBLE", "value", False),
+             ("STRING", "series_id", False), ("STRING", "indicator_name", False),
+             ("STRING", "frequency", True), ("STRING", "unit", False),
+             ("STRING", "geography", False), ("STRING", "state_code", True),
+             ("STRING", "geo_level", False)],
         ),
         "bls_national_industry": (
-            dataframes["bls"],
-            [("DATE", "date", False), ("DOUBLE", "value", False), ("STRING", "series_id", True),
-             ("STRING", "indicator_name", False), ("STRING", "unit", False),
-             ("STRING", "geography", False), ("STRING", "geo_level", False), ("STRING", "source", True)],
+            prepared["bls_national_industry"],
+            [("STRING", "pk", False), ("DATE", "date", False), ("DOUBLE", "value", False),
+             ("STRING", "series_id", True), ("STRING", "indicator_name", False),
+             ("STRING", "unit", False), ("STRING", "geography", False),
+             ("STRING", "geo_level", False), ("STRING", "source", True)],
         ),
         "policy_timeline": (
-            dataframes["policy"],
-            [("INTEGER", "congress", False), ("STRING", "bill_type", False), ("INTEGER", "bill_number", False),
+            prepared["policy_timeline"],
+            [("STRING", "bill_id", False), ("INTEGER", "congress", False),
+             ("STRING", "bill_type", False), ("INTEGER", "bill_number", False),
              ("STRING", "short_name", False), ("DATE", "signed_date", False),
              ("STRING", "policy_area", False), ("STRING", "summary", True),
              ("BOOLEAN", "is_landmark", False), ("STRING", "economic_impact_category", True)],
@@ -445,12 +495,15 @@ def main():
     bls_df = collect_bls_industry()
     policy_df = collect_policy_timeline()
 
-    # Save CSVs locally
+    # Prepare and save CSVs locally
     os.makedirs(args.output_dir, exist_ok=True)
-    national_df.to_csv(f"{args.output_dir}/fred_national_indicators.csv", index=False)
-    state_df.to_csv(f"{args.output_dir}/fred_state_indicators.csv", index=False)
-    bls_df.to_csv(f"{args.output_dir}/bls_national_industry.csv", index=False)
-    policy_df.to_csv(f"{args.output_dir}/policy_timeline.csv", index=False)
+    prepared = prepare_datasets({
+        "national": national_df, "state": state_df,
+        "bls": bls_df, "policy": policy_df,
+    })
+    prepared["economic_indicators"].to_csv(f"{args.output_dir}/economic_indicators.csv", index=False)
+    prepared["bls_national_industry"].to_csv(f"{args.output_dir}/bls_national_industry.csv", index=False)
+    prepared["policy_timeline"].to_csv(f"{args.output_dir}/policy_timeline.csv", index=False)
     print(f"\nCSVs saved to {args.output_dir}/")
 
     if args.collect_only:
