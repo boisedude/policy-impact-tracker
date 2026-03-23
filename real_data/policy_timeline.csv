@@ -1,0 +1,44 @@
+congress,bill_type,bill_number,short_name,signed_date,policy_area,summary,is_landmark,economic_impact_category
+115,hr,244,"Consolidated Appropriations Act, 2017",2017-05-05,Economics and Public Finance,,False,Economics and Public Finance
+115,hr,3823,Disaster Tax Relief and Airport and Airway Extension Act of 2017,2017-09-29,Taxation,,False,Taxation
+115,hr,1,Tax Cuts and Jobs Act,2017-12-22,Taxation,Corporate tax cut 35%→21%; individual bracket changes; SALT cap,True,Taxation
+115,hr,1892,Bipartisan Budget Act of 2018,2018-02-09,Economics and Public Finance,,False,Economics and Public Finance
+115,hr,1625,"Consolidated Appropriations Act, 2018",2018-03-23,Economics and Public Finance,,False,Economics and Public Finance
+115,s,2155,"Economic Growth, Regulatory Relief, and Consumer Protection Act",2018-05-24,Finance and Financial Sector,,False,Finance and Financial Sector
+115,hr,2353,Strengthening Career and Technical Education for the 21st Century Act,2018-07-31,Labor and Employment,,False,Labor and Employment
+115,hr,4318,Miscellaneous Tariff Bill Act of 2018,2018-09-13,Foreign Trade and International Finance,,False,Foreign Trade and International Finance
+115,hr,302,FAA Reauthorization Act of 2018,2018-10-05,Transportation and Public Works,,False,Transportation and Public Works
+115,hr,2,Agriculture Improvement Act of 2018,2018-12-20,Agriculture and Food,,False,Agriculture and Food
+115,hr,6227,National Quantum Initiative Act,2018-12-21,"Science, Technology, Communications",,False,"Science, Technology, Communications"
+116,hjres,31,"Consolidated Appropriations Act, 2019",2019-02-15,Economics and Public Finance,,False,Economics and Public Finance
+116,hr,3151,Taxpayer First Act,2019-07-01,Taxation,,False,Taxation
+116,hr,3877,Bipartisan Budget Act of 2019,2019-08-02,Economics and Public Finance,,False,Economics and Public Finance
+116,hr,3311,Small Business Reorganization Act of 2019,2019-08-23,Finance and Financial Sector,,False,Finance and Financial Sector
+116,hr,1865,"Further Consolidated Appropriations Act, 2020",2019-12-20,Economics and Public Finance,,False,Economics and Public Finance
+116,hr,1158,"Consolidated Appropriations Act, 2020",2019-12-20,Economics and Public Finance,,False,Economics and Public Finance
+116,hr,748,CARES Act,2020-03-27,Economics and Public Finance,"$2.2T COVID relief: PPP, stimulus checks, unemployment expansion",True,Economics and Public Finance
+116,hr,266,Paycheck Protection Program and Health Care Enhancement Act,2020-04-24,Economics and Public Finance,,False,Economics and Public Finance
+116,hr,7010,Paycheck Protection Program Flexibility Act of 2020,2020-06-05,Commerce,,False,Commerce
+116,hr,5430,United States-Mexico-Canada Agreement Implementation Act,2020-10-21,Foreign Trade and International Finance,,False,Foreign Trade and International Finance
+116,s,945,Holding Foreign Companies Accountable Act,2020-12-18,Finance and Financial Sector,,False,Finance and Financial Sector
+116,hr,133,"Consolidated Appropriations Act, 2021",2020-12-27,Economics and Public Finance,,False,Economics and Public Finance
+117,hr,1319,American Rescue Plan Act,2021-03-11,Economics and Public Finance,"$1.9T COVID relief: stimulus checks, unemployment, state/local aid",True,Economics and Public Finance
+117,hr,1799,PPP Extension Act of 2021,2021-03-30,Commerce,,False,Commerce
+117,hr,3684,Infrastructure Investment and Jobs Act,2021-11-15,Transportation and Public Works,"$1.2T infrastructure: roads, bridges, broadband, water, transit",True,Transportation and Public Works
+117,hr,2471,"Consolidated Appropriations Act, 2022",2022-03-15,Economics and Public Finance,,False,Economics and Public Finance
+117,hr,6968,Ending Importation of Russian Oil Act,2022-04-08,Foreign Trade and International Finance,,False,Foreign Trade and International Finance
+117,hr,7108,Suspending Normal Trade Relations with Russia and Belarus Act,2022-04-08,Foreign Trade and International Finance,,False,Foreign Trade and International Finance
+117,s,3580,Ocean Shipping Reform Act of 2022,2022-06-16,Transportation and Public Works,,False,Transportation and Public Works
+117,hr,4346,CHIPS and Science Act,2022-08-09,"Science, Technology, Communications",Semiconductor manufacturing subsidies; R&D investment; supply chain security,True,"Science, Technology, Communications"
+117,hr,5376,Inflation Reduction Act,2022-08-16,Economics and Public Finance,"Climate, energy, healthcare spending; minimum corporate tax; IRS funding",True,Economics and Public Finance
+117,hr,2617,"Consolidated Appropriations Act, 2023",2022-12-29,Economics and Public Finance,,False,Economics and Public Finance
+118,hr,3746,Fiscal Responsibility Act of 2023,2023-06-03,Economics and Public Finance,,False,Economics and Public Finance
+118,hr,4004,United States-Taiwan Initiative on 21st-Century Trade First Agreement Implementation Act,2023-08-07,Foreign Trade and International Finance,,False,Foreign Trade and International Finance
+118,hr,2670,National Defense Authorization Act FY2024,2023-12-22,Armed Forces and National Security,$886B defense authorization; pay raise; procurement reform,True,Armed Forces and National Security
+118,hr,4366,"Consolidated Appropriations Act, 2024",2024-03-09,Economics and Public Finance,,False,Economics and Public Finance
+118,hr,2882,"Further Consolidated Appropriations Act, 2024",2024-03-23,Economics and Public Finance,,False,Economics and Public Finance
+118,hr,1042,Prohibiting Russian Uranium Imports Act,2024-05-13,Energy,,False,Energy
+118,hr,3935,FAA Reauthorization Act of 2024,2024-05-16,Transportation and Public Works,,False,Transportation and Public Works
+118,hr,7377,Royalty Resiliency Act,2024-09-20,Energy,,False,Energy
+118,hr,5863,Federal Disaster Tax Relief Act of 2023,2024-12-12,Taxation,,False,Taxation
+118,hr,10545,"American Relief Act, 2025",2024-12-21,Economics and Public Finance,,False,Economics and Public Finance

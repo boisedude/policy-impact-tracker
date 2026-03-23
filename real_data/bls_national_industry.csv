@@ -1,0 +1,1729 @@
+date,value,series_id,indicator_name,unit,geography,geo_level,source
+2010-01-01,24433.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-01-01,666.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-01-01,2739.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-01-01,11447.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-01-01,129802.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-01-01,19829.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-01-01,5580.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-01-01,7733.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2010-01-01,16627.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-02-01,16646.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-02-01,7726.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2010-02-01,129706.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-02-01,674.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-02-01,19843.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-02-01,11439.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-02-01,5500.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-02-01,24421.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-02-01,2737.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-03-01,5537.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-03-01,24467.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-03-01,681.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-03-01,2719.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-03-01,19896.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-03-01,11439.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-03-01,129866.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-03-01,16629.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-03-01,7709.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2010-04-01,7711.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2010-04-01,2714.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-04-01,5553.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-04-01,19907.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-04-01,24469.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-04-01,130120.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-04-01,16721.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-04-01,687.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-04-01,11475.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-05-01,16756.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-05-01,2708.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-05-01,696.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-05-01,11511.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-05-01,19934.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-05-01,7698.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2010-05-01,130642.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-05-01,5520.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-05-01,24483.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-06-01,702.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-06-01,130510.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-06-01,5516.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-06-01,11529.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-06-01,7688.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2010-06-01,24505.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-06-01,16818.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-06-01,19964.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-06-01,2701.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-07-01,2703.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-07-01,7676.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2010-07-01,709.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-07-01,5508.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-07-01,24526.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-07-01,130415.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-07-01,11546.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-07-01,19976.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-07-01,16828.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-08-01,716.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-08-01,2701.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-08-01,16888.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-08-01,7674.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2010-08-01,20012.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-08-01,11538.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-08-01,5524.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-08-01,24537.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-08-01,130415.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-09-01,130341.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-09-01,2697.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-09-01,7681.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2010-09-01,20005.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-09-01,11549.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-09-01,16906.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-09-01,722.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-09-01,5501.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-09-01,24564.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-10-01,732.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-10-01,7682.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2010-10-01,16975.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-10-01,130620.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-10-01,20073.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-10-01,2695.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-10-01,5508.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-10-01,11548.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-10-01,24626.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-11-01,2689.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-11-01,130749.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-11-01,5506.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-11-01,24625.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-11-01,7680.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2010-11-01,20113.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-11-01,11571.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-11-01,736.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-11-01,17069.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-12-01,24657.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2010-12-01,11579.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2010-12-01,130830.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2010-12-01,20126.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2010-12-01,5467.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2010-12-01,2682.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2010-12-01,17140.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2010-12-01,734.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2010-12-01,7684.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-01-01,2678.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-01-01,20150.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-01-01,11606.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-01-01,737.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-01-01,5427.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-01-01,24675.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-01-01,130837.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-01-01,7680.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-01-01,17150.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2011-02-01,7677.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-02-01,2672.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-02-01,738.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-02-01,17229.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2011-02-01,11637.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-02-01,20167.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-02-01,131057.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-02-01,5451.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-02-01,24746.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-03-01,7682.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-03-01,17294.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2011-03-01,11659.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-03-01,754.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-03-01,5477.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-03-01,24794.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-03-01,131283.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-03-01,20180.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-03-01,2672.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-04-01,131597.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-04-01,5485.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-04-01,24891.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-04-01,767.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-04-01,17356.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2011-04-01,7680.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-04-01,11689.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-04-01,20232.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-04-01,2674.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-05-01,2679.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-05-01,24906.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-05-01,777.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-05-01,5516.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-05-01,7701.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-05-01,20253.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-05-01,17407.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2011-05-01,11697.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-05-01,131703.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-06-01,2685.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-06-01,788.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-06-01,20284.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-06-01,24962.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-06-01,7690.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-06-01,17424.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2011-06-01,5528.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-06-01,11710.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-06-01,131931.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-07-01,25010.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-07-01,11729.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-07-01,20332.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-07-01,2675.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-07-01,131992.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-07-01,799.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-07-01,5547.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-07-01,7692.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-07-01,17431.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2011-08-01,5552.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-08-01,132125.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-08-01,2632.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-08-01,11748.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-08-01,25029.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-08-01,20367.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-08-01,805.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-08-01,7697.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-08-01,17506.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2011-09-01,812.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-09-01,2676.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-09-01,5584.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-09-01,7695.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-09-01,11752.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-09-01,25046.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-09-01,132344.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-09-01,17571.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2011-09-01,20417.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-10-01,7708.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-10-01,11762.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-10-01,132553.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-10-01,820.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-10-01,17618.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2011-10-01,2677.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-10-01,20452.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-10-01,5588.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-10-01,25083.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-11-01,2676.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-11-01,5593.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-11-01,825.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-11-01,132690.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-11-01,11753.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-11-01,7721.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-11-01,17654.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2011-11-01,20484.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-11-01,25111.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-12-01,2679.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2011-12-01,7729.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2011-12-01,11783.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2011-12-01,20515.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2011-12-01,25124.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2011-12-01,132888.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2011-12-01,831.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2011-12-01,5611.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2011-12-01,17722.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-01-01,17808.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-01-01,11820.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-01-01,7736.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-01-01,133246.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-01-01,2665.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-01-01,25217.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-01-01,841.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-01-01,5626.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-01-01,20573.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-02-01,2676.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-02-01,846.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-02-01,7745.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-02-01,20646.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-02-01,5629.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-02-01,25246.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-02-01,17878.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-02-01,133509.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-02-01,11841.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-03-01,25276.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-03-01,5625.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-03-01,7767.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-03-01,133748.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-03-01,849.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-03-01,17912.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-03-01,2678.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-03-01,11880.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-03-01,20690.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-04-01,850.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-04-01,7771.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-04-01,20707.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-04-01,25285.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-04-01,17961.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-04-01,11897.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-04-01,133825.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-04-01,5618.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-04-01,2680.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-05-01,7781.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-05-01,133932.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-05-01,855.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-05-01,17986.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-05-01,20744.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-05-01,5604.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-05-01,25337.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-05-01,11908.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-05-01,2685.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-06-01,852.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-06-01,2674.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-06-01,18042.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-06-01,20744.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-06-01,11918.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-06-01,25323.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-06-01,134013.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-06-01,5621.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-06-01,7782.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-07-01,2679.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-07-01,7778.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-07-01,25329.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-07-01,5632.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-07-01,11944.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-07-01,20779.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-07-01,18084.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-07-01,851.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-07-01,134157.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-08-01,134339.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-08-01,7788.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-08-01,11940.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-08-01,5648.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-08-01,20806.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-08-01,18118.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-08-01,852.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-08-01,2675.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-08-01,25361.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-09-01,11934.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-09-01,5661.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-09-01,134517.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-09-01,2670.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-09-01,847.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-09-01,25387.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-09-01,20845.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-09-01,18134.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-09-01,7800.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-10-01,2666.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-10-01,837.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-10-01,11941.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-10-01,25427.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-10-01,20875.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-10-01,18207.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-10-01,7810.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-10-01,5674.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-10-01,134669.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-11-01,5684.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-11-01,134825.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-11-01,18261.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2012-11-01,25495.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-11-01,11930.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-11-01,7816.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-11-01,844.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-11-01,2674.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-11-01,20880.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-12-01,849.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2012-12-01,2677.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2012-12-01,11939.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2012-12-01,20933.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2012-12-01,25508.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2012-12-01,5724.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2012-12-01,135074.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2012-12-01,7829.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2012-12-01,18298.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-01-01,20948.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-01-01,5746.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-01-01,135257.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-01-01,2662.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2013-01-01,7837.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-01-01,853.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-01-01,11962.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-01-01,25545.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-01-01,18340.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-02-01,858.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-02-01,5784.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-02-01,135546.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-02-01,20959.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-02-01,11974.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-02-01,2698.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2013-02-01,18433.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-02-01,25569.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-02-01,7852.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-03-01,7856.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-03-01,135689.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-03-01,18489.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-03-01,5802.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-03-01,25564.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-03-01,11977.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-03-01,21007.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-03-01,2700.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2013-03-01,860.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-04-01,11978.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-04-01,7872.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-04-01,18551.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-04-01,5796.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-04-01,857.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-04-01,2696.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2013-04-01,135873.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-04-01,25590.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-04-01,21057.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-05-01,861.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-05-01,11978.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-05-01,7884.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-05-01,136096.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-05-01,2710.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2013-05-01,18605.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-05-01,5829.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-05-01,25625.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-05-01,21076.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-06-01,18651.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-06-01,864.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-06-01,25682.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-06-01,21082.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-06-01,7887.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-06-01,11982.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-06-01,136279.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-06-01,2705.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2013-06-01,5855.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-07-01,11962.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-07-01,25725.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-07-01,21073.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-07-01,863.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-07-01,2720.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2013-07-01,136391.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-07-01,18698.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-07-01,7904.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-07-01,5859.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-08-01,25793.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-08-01,11992.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-08-01,7902.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-08-01,21147.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-08-01,136646.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-08-01,2691.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2013-08-01,867.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-08-01,18725.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-08-01,5878.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-09-01,12010.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-09-01,2708.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2013-09-01,18755.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-09-01,5910.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-09-01,21133.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-09-01,136821.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-09-01,25858.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-09-01,7903.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-09-01,868.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-10-01,25882.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-10-01,5931.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-10-01,2718.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2013-10-01,12033.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-10-01,7912.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-10-01,137041.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-10-01,868.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-10-01,18805.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-10-01,21158.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-11-01,2722.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2013-11-01,7912.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-11-01,18873.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-11-01,5963.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-11-01,137317.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-11-01,868.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-11-01,21200.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-11-01,12054.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-11-01,25939.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-12-01,26012.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2013-12-01,7915.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2013-12-01,12060.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2013-12-01,5932.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2013-12-01,866.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2013-12-01,21199.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2013-12-01,137372.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2013-12-01,18862.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2013-12-01,2727.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-01-01,137561.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-01-01,26029.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-01-01,18909.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-01-01,21236.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-01-01,2724.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-01-01,12058.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-01-01,7913.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-01-01,5985.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2014-01-01,871.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-02-01,2718.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-02-01,12084.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-02-01,137712.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-02-01,7932.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-02-01,18971.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-02-01,875.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-02-01,26004.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-02-01,21252.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-02-01,6007.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2014-03-01,879.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-03-01,137985.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-03-01,19018.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-03-01,26055.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-03-01,21292.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-03-01,2725.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-03-01,7932.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-03-01,6038.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2014-03-01,12096.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-04-01,12109.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-04-01,21323.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-04-01,138298.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-04-01,26122.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-04-01,2721.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-04-01,7945.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-04-01,19076.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-04-01,886.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-04-01,6084.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2014-05-01,888.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-05-01,2717.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-05-01,7952.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-05-01,6109.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2014-05-01,21375.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-05-01,12120.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-05-01,19117.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-05-01,26165.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-05-01,138513.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-06-01,26238.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-06-01,2722.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-06-01,12146.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-06-01,21424.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-06-01,7965.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-06-01,138849.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-06-01,893.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-06-01,6133.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2014-06-01,19178.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-07-01,21450.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-07-01,12165.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-07-01,139072.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-07-01,26292.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-07-01,897.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-07-01,2725.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-07-01,19216.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-07-01,7979.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-07-01,6178.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2014-08-01,6210.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2014-08-01,19274.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-08-01,899.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-08-01,21501.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-08-01,2733.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-08-01,26316.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-08-01,139269.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-08-01,7994.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-08-01,12182.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-09-01,2734.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-09-01,12201.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-09-01,6242.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2014-09-01,904.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-09-01,139563.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-09-01,26363.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-09-01,21541.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-09-01,19330.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-09-01,8009.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-10-01,26424.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-10-01,8019.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-10-01,139798.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-10-01,21569.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-10-01,6259.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2014-10-01,12233.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-10-01,899.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-10-01,2727.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-10-01,19359.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-11-01,12260.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-11-01,899.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-11-01,21626.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-11-01,26475.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-11-01,19415.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-11-01,8035.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-11-01,6272.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2014-11-01,140089.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-11-01,2735.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-12-01,895.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2014-12-01,12266.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2014-12-01,26527.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2014-12-01,19494.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2014-12-01,8042.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2014-12-01,21678.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2014-12-01,140364.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2014-12-01,2737.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2014-12-01,6293.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-01-01,12265.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-01-01,8059.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-01-01,26557.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-01-01,21746.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-01-01,888.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-01-01,140568.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2015-01-01,19519.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-01-01,6320.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-01-01,2740.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-02-01,875.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-02-01,21787.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-02-01,6361.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-02-01,140827.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2015-02-01,12275.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-02-01,8070.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-02-01,26599.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-02-01,2741.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-02-01,19563.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-03-01,12286.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-03-01,6334.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-03-01,860.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-03-01,21829.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-03-01,2737.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-03-01,140923.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2015-03-01,8081.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-03-01,26646.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-03-01,19592.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-04-01,19635.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-04-01,141196.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2015-04-01,844.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-04-01,6392.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-04-01,2742.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-04-01,12291.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-04-01,8086.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-04-01,21902.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-04-01,26662.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-05-01,19718.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-05-01,2747.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-05-01,21956.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-05-01,8097.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-05-01,26727.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-05-01,6427.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-05-01,823.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-05-01,12306.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-05-01,141538.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2015-06-01,19768.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-06-01,2748.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-06-01,141709.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2015-06-01,22011.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-06-01,26764.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-06-01,817.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-06-01,6441.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-06-01,12307.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-06-01,8115.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-07-01,8134.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-07-01,141991.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2015-07-01,807.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-07-01,22052.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-07-01,2752.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-07-01,19803.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-07-01,6472.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-07-01,26802.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-07-01,12323.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-08-01,6490.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-08-01,8145.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-08-01,794.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-08-01,12318.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-08-01,2751.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-08-01,26822.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-08-01,142125.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2015-08-01,22088.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-08-01,19835.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-09-01,22140.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-09-01,780.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-09-01,12326.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-09-01,142275.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2015-09-01,26810.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-09-01,2764.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-09-01,8152.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-09-01,6508.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-09-01,19855.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-10-01,12334.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-10-01,2766.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-10-01,26851.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-10-01,6547.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-10-01,8167.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-10-01,22212.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-10-01,770.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-10-01,19930.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-10-01,142579.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2015-11-01,142808.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2015-11-01,8182.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-11-01,755.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-11-01,2751.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-11-01,26875.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-11-01,12329.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-11-01,19965.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-11-01,22260.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-11-01,6598.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-12-01,20035.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2015-12-01,22318.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2015-12-01,6630.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2015-12-01,8189.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2015-12-01,2761.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2015-12-01,12333.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2015-12-01,746.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2015-12-01,26909.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2015-12-01,143077.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-01-01,20046.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-01-01,2762.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-01-01,143210.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-01-01,26915.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-01-01,732.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2016-01-01,6631.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-01-01,8207.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-01-01,22348.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-01-01,12354.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-02-01,143406.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-02-01,710.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2016-02-01,22401.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-02-01,6640.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-02-01,8209.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-02-01,26978.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-02-01,12337.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-02-01,2775.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-02-01,20058.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-03-01,691.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2016-03-01,8226.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-03-01,27054.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-03-01,12313.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-03-01,6678.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-03-01,2785.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-03-01,22447.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-03-01,143662.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-03-01,20082.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-04-01,22503.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-04-01,6702.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-04-01,2789.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-04-01,678.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2016-04-01,8248.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-04-01,27072.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-04-01,20113.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-04-01,12325.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-04-01,143854.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-05-01,22564.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-05-01,6689.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-05-01,2751.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-05-01,667.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2016-05-01,143900.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-05-01,27089.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-05-01,12303.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-05-01,20120.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-05-01,8265.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-06-01,20162.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-06-01,2801.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-06-01,12321.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-06-01,6701.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-06-01,8282.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-06-01,27107.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-06-01,657.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2016-06-01,144147.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-06-01,22615.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-07-01,6735.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-07-01,22669.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-07-01,652.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2016-07-01,27153.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-07-01,12342.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-07-01,8304.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-07-01,144520.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-07-01,20208.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-07-01,2799.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-08-01,12319.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-08-01,20212.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-08-01,8319.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-08-01,2803.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-08-01,144661.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-08-01,27199.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-08-01,22715.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-08-01,6736.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-08-01,647.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2016-09-01,2817.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-09-01,22779.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-09-01,12317.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-09-01,645.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2016-09-01,8327.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-09-01,144967.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-09-01,20281.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-09-01,27211.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-09-01,6768.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-10-01,8332.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-10-01,2814.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-10-01,145065.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-10-01,12316.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-10-01,20303.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-10-01,22827.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-10-01,27235.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-10-01,6799.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-10-01,644.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2016-11-01,20340.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-11-01,647.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2016-11-01,8344.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-11-01,6823.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-11-01,12311.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-11-01,2812.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-11-01,22865.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-11-01,27209.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-11-01,145183.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-12-01,2817.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2016-12-01,22928.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2016-12-01,20374.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2016-12-01,6818.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2016-12-01,27270.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2016-12-01,8370.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2016-12-01,12324.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2016-12-01,145408.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2016-12-01,647.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-01-01,12334.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-01-01,2821.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-01-01,22941.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-01-01,20415.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-01-01,145628.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-01-01,6840.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-01-01,8397.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-01-01,647.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-01-01,27314.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-02-01,145846.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-02-01,12350.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-02-01,23018.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-02-01,2815.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-02-01,27311.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-02-01,20433.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-02-01,8398.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-02-01,6881.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-02-01,656.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-03-01,8408.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-03-01,145970.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-03-01,2813.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-03-01,6902.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-03-01,23047.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-03-01,20463.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-03-01,12361.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-03-01,27298.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-03-01,660.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-04-01,2804.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-04-01,20494.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-04-01,146175.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-04-01,669.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-04-01,27301.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-04-01,6916.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-04-01,8425.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-04-01,23105.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-04-01,12367.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-05-01,8436.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-05-01,674.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-05-01,2801.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-05-01,6931.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-05-01,146380.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-05-01,12377.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-05-01,23140.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-05-01,20556.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-05-01,27307.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-06-01,677.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-06-01,8452.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-06-01,20589.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-06-01,12390.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-06-01,27321.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-06-01,146583.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-06-01,6962.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-06-01,23165.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-06-01,2811.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-07-01,8465.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-07-01,23232.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-07-01,146772.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-07-01,680.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-07-01,20632.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-07-01,12390.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-07-01,6968.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-07-01,2809.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-07-01,27325.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-08-01,683.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-08-01,20671.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-08-01,2813.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-08-01,12435.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-08-01,146919.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-08-01,7002.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-08-01,23269.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-08-01,8476.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-08-01,27333.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-09-01,12443.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-09-01,147008.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-09-01,23295.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-09-01,20668.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-09-01,685.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-09-01,8480.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-09-01,7013.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-09-01,27355.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-09-01,2816.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-10-01,27374.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-10-01,686.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-10-01,7031.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-10-01,23313.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-10-01,20709.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-10-01,2811.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-10-01,8481.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-10-01,12457.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-10-01,147149.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-11-01,27416.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-11-01,691.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-11-01,147372.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-11-01,23354.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-11-01,12472.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2017-11-01,8489.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-11-01,2815.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-11-01,7068.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-11-01,20725.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-12-01,20764.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2017-12-01,694.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2017-12-01,27404.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2017-12-01,23383.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2017-12-01,2818.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2017-12-01,147523.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2017-12-01,7091.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2017-12-01,8496.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2017-12-01,12501.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-01-01,23438.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-01-01,12527.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-01-01,8503.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-01-01,7093.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2018-01-01,20822.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-01-01,698.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-01-01,147660.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-01-01,2817.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-01-01,27370.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-02-01,8527.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-02-01,148054.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-02-01,7184.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2018-02-01,2819.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-02-01,707.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-02-01,12551.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-02-01,20861.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-02-01,27447.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-02-01,23494.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-03-01,23523.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-03-01,148280.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-03-01,8538.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-03-01,20908.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-03-01,7194.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2018-03-01,2826.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-03-01,714.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-03-01,27519.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-03-01,12576.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-04-01,148420.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-04-01,23546.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-04-01,722.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-04-01,8544.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-04-01,27517.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-04-01,7212.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2018-04-01,20952.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-04-01,12595.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-04-01,2838.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-05-01,27565.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-05-01,23583.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-05-01,2841.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-05-01,148742.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-05-01,12623.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-05-01,8574.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-05-01,726.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-05-01,7274.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2018-05-01,21011.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-06-01,730.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-06-01,148960.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-06-01,12656.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-06-01,7292.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2018-06-01,2838.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-06-01,27542.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-06-01,21060.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-06-01,23615.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-06-01,8591.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-07-01,8600.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-07-01,7318.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2018-07-01,730.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-07-01,23643.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-07-01,149020.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-07-01,12676.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-07-01,27545.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-07-01,21073.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-07-01,2841.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-08-01,7347.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2018-08-01,27602.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-08-01,2840.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-08-01,12688.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-08-01,23701.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-08-01,21112.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-08-01,737.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-08-01,149277.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-08-01,8610.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-09-01,27577.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-09-01,738.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-09-01,7375.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2018-09-01,8629.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-09-01,23709.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-09-01,149358.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-09-01,21145.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-09-01,2838.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-09-01,12710.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-10-01,21171.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-10-01,27569.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-10-01,149527.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-10-01,2850.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-10-01,8644.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-10-01,23756.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-10-01,12731.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-10-01,7389.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2018-10-01,741.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-11-01,23768.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-11-01,12741.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-11-01,21176.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-11-01,734.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-11-01,2850.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-11-01,27638.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-11-01,8651.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-11-01,7386.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2018-11-01,149617.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-12-01,23852.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2018-12-01,149809.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2018-12-01,27580.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2018-12-01,21196.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2018-12-01,2851.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2018-12-01,8661.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2018-12-01,743.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2018-12-01,12761.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2018-12-01,7396.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-01-01,2842.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-01-01,8672.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-01-01,23902.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-01-01,7425.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-01-01,12790.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-01-01,150060.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-01-01,27633.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-01-01,21201.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-01-01,745.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-02-01,12782.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-02-01,21230.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-02-01,7395.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-02-01,2843.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-02-01,27591.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-02-01,743.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-02-01,8685.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-02-01,150067.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-02-01,23923.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-03-01,21258.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-03-01,2849.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-03-01,150295.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-03-01,27592.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-03-01,12788.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-03-01,23988.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-03-01,8705.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-03-01,742.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-03-01,7425.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-04-01,150591.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-04-01,12785.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-04-01,7468.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-04-01,739.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-04-01,27626.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-04-01,8721.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-04-01,21315.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-04-01,24054.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-04-01,2846.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-05-01,2858.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-05-01,12778.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-05-01,24090.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-05-01,21356.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-05-01,27632.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-05-01,7478.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-05-01,150618.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-05-01,8733.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-05-01,738.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-06-01,150838.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-06-01,2875.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-06-01,12787.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-06-01,734.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-06-01,8748.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-06-01,24135.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-06-01,7502.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-06-01,21402.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-06-01,27645.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-07-01,8771.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-07-01,728.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-07-01,2866.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-07-01,150937.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-07-01,12790.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-07-01,27661.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-07-01,7526.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-07-01,24181.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-07-01,21421.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-08-01,12789.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-08-01,151169.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-08-01,27652.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-08-01,719.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-08-01,7530.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-08-01,8785.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-08-01,21455.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-08-01,24246.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-08-01,2865.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-09-01,24288.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-09-01,2871.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-09-01,717.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-09-01,8785.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-09-01,12787.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-09-01,21465.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-09-01,27676.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-09-01,7547.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-09-01,151365.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-10-01,27688.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-10-01,24328.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-10-01,12733.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-10-01,717.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-10-01,7553.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-10-01,21476.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-10-01,8801.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-10-01,2874.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-10-01,151460.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-11-01,151667.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-11-01,12777.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-11-01,21487.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-11-01,27687.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-11-01,705.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-11-01,2885.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-11-01,8813.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-11-01,24391.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2019-11-01,7541.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-12-01,151794.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2019-12-01,21467.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2019-12-01,8822.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2019-12-01,2891.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2019-12-01,27758.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2019-12-01,7527.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2019-12-01,693.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2019-12-01,12760.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2019-12-01,24428.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-01-01,24510.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-01-01,12745.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-01-01,679.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-01-01,7575.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-01-01,27775.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-01-01,2901.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-01-01,152031.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-01-01,8833.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-01-01,21476.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-02-01,27738.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-02-01,8872.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-02-01,7610.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-02-01,21483.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-02-01,684.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-02-01,12743.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-02-01,2910.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-02-01,152293.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-02-01,24573.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-03-01,678.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-03-01,24356.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-03-01,150895.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-03-01,2902.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-03-01,7541.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-03-01,12684.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-03-01,8855.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-03-01,21388.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-03-01,27659.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-04-01,619.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-04-01,130426.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-04-01,2643.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-04-01,11382.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-04-01,8592.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-04-01,24564.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-04-01,6522.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-04-01,19223.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-04-01,21742.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-05-01,24975.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-05-01,2609.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-05-01,133040.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-05-01,22150.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-05-01,7004.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-05-01,595.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-05-01,11610.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-05-01,8607.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-05-01,19410.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-06-01,25963.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-06-01,2622.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-06-01,137671.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-06-01,11950.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-06-01,19768.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-06-01,579.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-06-01,22727.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-06-01,7159.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-06-01,8622.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-07-01,22923.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-07-01,26231.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-07-01,569.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-07-01,8623.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-07-01,11973.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-07-01,2622.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-07-01,139255.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-07-01,7196.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-07-01,19953.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-08-01,140821.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-08-01,8649.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-08-01,11999.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-08-01,23124.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-08-01,20147.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-08-01,2640.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-08-01,26613.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-08-01,561.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-08-01,7226.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-09-01,561.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-09-01,20267.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-09-01,141770.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-09-01,12057.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-09-01,7253.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-09-01,26746.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-09-01,23189.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-09-01,2695.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-09-01,8674.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-10-01,2684.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-10-01,8691.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-10-01,7301.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-10-01,12086.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-10-01,23278.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-10-01,556.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-10-01,20455.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-10-01,142460.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-10-01,26947.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-11-01,23337.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-11-01,2696.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-11-01,27112.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-11-01,12118.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-11-01,7321.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-11-01,20602.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2020-11-01,8706.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-11-01,554.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-11-01,142733.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-12-01,12153.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2020-12-01,8718.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2020-12-01,2712.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2020-12-01,23334.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2020-12-01,557.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2020-12-01,142548.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2020-12-01,7357.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2020-12-01,27158.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2020-12-01,20770.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-01-01,20922.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-01-01,12142.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-01-01,2747.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-01-01,23362.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-01-01,27201.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-01-01,8722.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-01-01,142863.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2021-01-01,7362.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-01-01,549.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-02-01,7278.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-02-01,23413.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-02-01,20999.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-02-01,27277.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-02-01,8718.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-02-01,143380.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2021-02-01,12172.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-02-01,539.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-02-01,2764.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-03-01,2770.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-03-01,7399.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-03-01,27423.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-03-01,12229.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-03-01,23536.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-03-01,8736.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-03-01,553.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-03-01,21109.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-03-01,144232.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2021-04-01,8750.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-04-01,7400.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-04-01,555.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-04-01,23584.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-04-01,2796.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-04-01,27387.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-04-01,12193.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-04-01,144587.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2021-04-01,21103.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-05-01,21176.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-05-01,2816.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-05-01,7391.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-05-01,557.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-05-01,8761.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-05-01,12216.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-05-01,27431.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-05-01,145065.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2021-05-01,23616.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-06-01,7393.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-06-01,559.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-06-01,8773.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-06-01,21257.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-06-01,145820.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2021-06-01,23642.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-06-01,27571.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-06-01,2824.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-06-01,12247.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-07-01,27652.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-07-01,146762.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2021-07-01,2881.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-07-01,12305.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-07-01,561.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-07-01,21418.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-07-01,7425.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-07-01,23684.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-07-01,8808.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-08-01,565.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-08-01,2903.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-08-01,147314.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2021-08-01,7432.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-08-01,27703.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-08-01,12353.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-08-01,21535.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-08-01,23708.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-08-01,8826.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-09-01,23705.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-09-01,566.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-09-01,27832.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-09-01,147771.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2021-09-01,7484.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-09-01,8851.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-09-01,12393.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-09-01,2917.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-09-01,21636.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-10-01,12453.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-10-01,2938.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-10-01,569.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-10-01,27988.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-10-01,23800.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-10-01,21873.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-10-01,148572.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2021-10-01,7518.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-10-01,8879.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-11-01,22019.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-11-01,23845.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-11-01,7562.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-11-01,12498.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-11-01,8911.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-11-01,149230.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2021-11-01,28151.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-11-01,572.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-11-01,2957.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-12-01,12537.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2021-12-01,7595.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2021-12-01,28262.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2021-12-01,23886.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2021-12-01,8938.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2021-12-01,577.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2021-12-01,22129.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2021-12-01,2967.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2021-12-01,149816.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-01-01,150006.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-01-01,7595.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-01-01,22183.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-01-01,28318.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-01-01,8934.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-01-01,2984.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-01-01,12564.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-01-01,23869.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-01-01,578.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-02-01,8976.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-02-01,7651.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-02-01,581.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-02-01,22372.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-02-01,12601.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-02-01,2990.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-02-01,28528.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-02-01,23984.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-02-01,150825.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-03-01,22483.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-03-01,7692.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-03-01,12674.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-03-01,3018.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-03-01,9002.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-03-01,589.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-03-01,28593.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-03-01,24057.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-03-01,151315.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-04-01,3034.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-04-01,7698.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-04-01,28595.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-04-01,24117.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-04-01,9037.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-04-01,596.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-04-01,12726.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-04-01,22468.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-04-01,151623.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-05-01,600.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-05-01,7738.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-05-01,12735.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-05-01,9049.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-05-01,22503.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-05-01,3057.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-05-01,28572.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-05-01,151924.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-05-01,24176.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-06-01,12767.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-06-01,22564.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-06-01,608.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-06-01,152358.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-06-01,9059.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-06-01,3076.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-06-01,24267.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-06-01,28646.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-06-01,7761.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-07-01,12800.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-07-01,153072.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-07-01,3094.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-07-01,614.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-07-01,7792.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-07-01,9073.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-07-01,24395.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-07-01,22658.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-07-01,28702.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-08-01,24468.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-08-01,153362.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-08-01,22697.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-08-01,9092.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-08-01,7801.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-08-01,612.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-08-01,3097.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-08-01,12832.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-08-01,28748.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-09-01,3095.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-09-01,22744.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-09-01,12849.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-09-01,9097.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-09-01,28720.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-09-01,24552.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-09-01,153582.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-09-01,7832.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-09-01,614.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-10-01,7847.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-10-01,28761.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-10-01,12883.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-10-01,9122.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-10-01,3100.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-10-01,24642.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-10-01,618.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-10-01,153939.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-10-01,22783.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-11-01,624.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-11-01,12896.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-11-01,9136.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2022-11-01,24729.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-11-01,154242.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-11-01,7863.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-11-01,3115.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-11-01,28763.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-11-01,22792.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-12-01,28769.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2022-12-01,22774.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2022-12-01,12895.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2022-12-01,24773.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2022-12-01,3092.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2022-12-01,154342.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2022-12-01,7885.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2022-12-01,627.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2022-12-01,9146.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-01-01,3061.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-01-01,7932.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-01-01,154776.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-01-01,28807.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-01-01,634.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-01-01,22791.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-01-01,9144.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-01-01,12903.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-01-01,24883.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-02-01,155066.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-02-01,3048.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-02-01,9152.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-02-01,12898.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-02-01,7943.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-02-01,24956.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-02-01,22837.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-02-01,633.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-02-01,28845.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-03-01,7926.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-03-01,12888.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-03-01,634.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-03-01,3049.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-03-01,155134.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-03-01,22832.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-03-01,28803.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-03-01,9150.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-03-01,25033.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-04-01,7955.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-04-01,155375.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-04-01,3043.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-04-01,22837.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-04-01,9180.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-04-01,12884.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-04-01,25113.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-04-01,28799.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-04-01,637.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-05-01,22850.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-05-01,9175.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-05-01,25221.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-05-01,3034.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-05-01,28830.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-05-01,642.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-05-01,7965.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-05-01,155655.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-05-01,12869.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-06-01,640.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-06-01,155880.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-06-01,25314.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-06-01,8006.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-06-01,22826.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-06-01,9182.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-06-01,3021.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-06-01,28799.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-06-01,12875.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-07-01,22779.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-07-01,25435.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-07-01,156043.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-07-01,28816.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-07-01,3001.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-07-01,12862.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-07-01,9193.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-07-01,642.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-07-01,8016.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-08-01,8042.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-08-01,25544.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-08-01,2981.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-08-01,12861.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-08-01,22768.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-08-01,156261.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-08-01,9193.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-08-01,28799.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-08-01,641.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-09-01,9186.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-09-01,8053.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-09-01,22743.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-09-01,28832.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-09-01,641.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-09-01,12872.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-09-01,156417.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-09-01,2975.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-09-01,25641.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-10-01,12837.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-10-01,28865.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-10-01,156576.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-10-01,8080.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-10-01,22715.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-10-01,9179.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-10-01,25735.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-10-01,639.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-10-01,2951.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-11-01,636.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-11-01,8088.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-11-01,28837.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-11-01,22661.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-11-01,12859.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-11-01,9172.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-11-01,2962.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-11-01,25853.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2023-11-01,156703.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-12-01,8100.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2023-12-01,22643.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2023-12-01,9176.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2023-12-01,638.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2023-12-01,156857.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2023-12-01,2963.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2023-12-01,12872.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2023-12-01,28829.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2023-12-01,25935.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-01-01,9165.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-01-01,2963.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-01-01,22668.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-01-01,26033.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-01-01,157032.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-01-01,12875.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-01-01,633.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-01-01,8123.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-01-01,28799.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-02-01,157238.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-02-01,28839.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-02-01,22658.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-02-01,26130.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-02-01,2958.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-02-01,633.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-02-01,12852.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-02-01,9151.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-02-01,8132.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-03-01,26225.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-03-01,2951.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-03-01,8164.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-03-01,157466.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-03-01,9149.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-03-01,22631.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-03-01,12836.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-03-01,636.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-03-01,28855.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-04-01,12833.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-04-01,157530.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-04-01,8170.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-04-01,22616.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-04-01,628.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-04-01,2940.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-04-01,9144.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-04-01,28880.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-04-01,26313.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-05-01,26383.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-05-01,8176.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-05-01,624.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-05-01,9147.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-05-01,28880.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-05-01,2930.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-05-01,12825.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-05-01,22633.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-05-01,157608.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-06-01,12814.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-06-01,22606.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-06-01,620.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-06-01,157695.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-06-01,26474.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-06-01,9159.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-06-01,8196.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-06-01,2930.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-06-01,28851.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-07-01,8208.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-07-01,22584.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-07-01,9154.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-07-01,622.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-07-01,12806.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-07-01,28830.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-07-01,26515.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-07-01,157748.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-07-01,2917.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-08-01,28802.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-08-01,26573.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-08-01,9162.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-08-01,8236.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-08-01,22544.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-08-01,2909.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-08-01,157757.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-08-01,12772.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-08-01,620.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-09-01,9162.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-09-01,157912.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-09-01,8254.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-09-01,26691.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-09-01,2903.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-09-01,12758.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-09-01,622.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-09-01,28813.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-09-01,22525.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-10-01,2887.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-10-01,157945.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-10-01,9164.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-10-01,622.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-10-01,28794.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-10-01,26786.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-10-01,8262.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-10-01,12697.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-10-01,22486.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-11-01,22499.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-11-01,624.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-11-01,2885.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-11-01,9173.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-11-01,26870.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-11-01,158079.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-11-01,28755.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2024-11-01,8267.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-11-01,12711.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-12-01,158316.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2024-12-01,622.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2024-12-01,8276.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2024-12-01,12693.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2024-12-01,26945.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2024-12-01,9179.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2024-12-01,2895.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2024-12-01,22532.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2024-12-01,28811.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-01-01,158268.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-01-01,27006.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-01-01,2877.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-01-01,12673.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-01-01,622.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-01-01,8264.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-01-01,9187.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-01-01,28795.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-01-01,22480.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-02-01,28806.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-02-01,9199.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-02-01,8267.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-02-01,622.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-02-01,2876.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-02-01,27064.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-02-01,158310.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-02-01,22473.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-02-01,12671.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-03-01,22457.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-03-01,2867.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-03-01,8273.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-03-01,27132.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-03-01,12666.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-03-01,9201.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-03-01,620.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-03-01,158377.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-03-01,28792.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-04-01,2865.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-04-01,28783.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-04-01,158485.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-04-01,622.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-04-01,9205.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-04-01,22470.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-04-01,12662.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-04-01,8271.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-04-01,27216.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-05-01,618.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-05-01,8269.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-05-01,27276.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-05-01,22450.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-05-01,28765.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-05-01,12651.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-05-01,158498.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-05-01,2864.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-05-01,9211.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-06-01,616.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-06-01,2863.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-06-01,8267.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-06-01,158478.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-06-01,22419.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-06-01,12636.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-06-01,9204.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-06-01,27325.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-06-01,28741.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-07-01,12625.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-07-01,2861.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-07-01,28744.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-07-01,158542.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-07-01,9204.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-07-01,8261.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-07-01,27412.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-07-01,610.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-07-01,22403.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-08-01,27435.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-08-01,28743.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-08-01,158472.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-08-01,12615.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-08-01,9185.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-08-01,2860.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-08-01,22375.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-08-01,8239.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-08-01,607.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-09-01,22359.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-09-01,605.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-09-01,2859.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-09-01,27489.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-09-01,158548.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-09-01,28725.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-09-01,8255.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-09-01,12612.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-09-01,9189.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-10-01,2853.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-10-01,27533.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-10-01,28714.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-10-01,9184.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-10-01,12603.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-10-01,22335.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-10-01,158408.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-10-01,606.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-10-01,8243.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-11-01,158449.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-11-01,22391.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-11-01,2848.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-11-01,8279.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-11-01,27589.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
+2025-11-01,28649.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-11-01,9185.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-11-01,605.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-11-01,12593.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-12-01,28616.0,CES4000000001,"Trade, Transport & Utilities Employment",Thousands,United States,National,BLS CES
+2025-12-01,158432.0,CES0000000001,Total Nonfarm Employment,Thousands,United States,National,BLS CES
+2025-12-01,9186.0,CES5500000001,Financial Activities Employment,Thousands,United States,National,BLS CES
+2025-12-01,8272.0,CES2000000001,Construction Employment,Thousands,United States,National,BLS CES
+2025-12-01,12580.0,CES3000000001,Manufacturing Employment,Thousands,United States,National,BLS CES
+2025-12-01,2842.0,CES5000000001,Information Employment,Thousands,United States,National,BLS CES
+2025-12-01,22372.0,CES6000000001,Professional & Business Services Employment,Thousands,United States,National,BLS CES
+2025-12-01,604.0,CES1000000001,Mining & Logging Employment,Thousands,United States,National,BLS CES
+2025-12-01,27627.0,CES6500000001,Education & Health Services Employment,Thousands,United States,National,BLS CES
